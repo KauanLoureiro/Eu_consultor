@@ -1,0 +1,316 @@
+id_venda,data_venda,nome_cliente,cidade,produto,categoria,quantidade,preco_unitario
+1,2024-01-25,Thiago Barbosa,rio de janeiro,Sandália,Calçados,3,89.9
+2,2023-08-13,Pedro Santos,Brasília,Camiseta Básica,Roupas,1,R$ 49.9
+3,2023-09-07,Carla Lima,Recife,Calça Jeans,Roupas,4,129.9
+4,2024-08-01,Camila Ferreira,Brasília,Chinelo,Calçados,2,49.9
+5,2023-12-17,,Curitiba,Tênis Casual,Calçados,4,199.9
+6,2023-02-23,,Porto Alegre,Camiseta Básica,Roupas,2,49.9
+7,2024-10-11,Rafael Alves,São Paulo,Calça Jeans,Roupas,5,129.9
+8,2024-10-09,Maria Oliveira,Brasília,VESTIDO FLORAL,Roupas,3,149.9
+9,2023-05-19,Fernanda Costa,Belo Horizonte,Mochila,Acessórios,4,159.9
+10,2024-03-13,BRUNO CARVALHO,Fortaleza,tênis casual,Calçados,5,199.9
+11,2024/01/27,Rafael Alves,São Paulo,Boné,Roupas,-1,
+12,2023-12-27,Bruno Carvalho,Porto Alegre,Mochila,Acessórios,1,
+13,2024-02-27,Larissa Nunes,manaus,Sandália,Calçados,3,89.9
+14,2023-09-03,CARLA LIMA,São Paulo,Boné,roupas,4,39.9
+15,2024-05-23,Larissa Nunes,Brasília,Camiseta Básica,Roupas,3,49.9
+16,2024-09-17,pedro santos,Recife,Camiseta Básica,Roupas,1,49.9
+17,2024-10-02,Larissa Nunes,Rio de Janeiro,Chinelo,Calçados,3,49.9
+18,2024/01/17,Carla Lima,Rio de Janeiro,Cinto,Acessórios,3,44.9
+19,2024-06-03,Larissa Nunes,Salvador,Vestido Floral,Roupas,3,149.9
+20,2023-09-25,Pedro Santos,Porto Alegre,Tênis Casual,Calçados,3,199.9
+21,16/04/2024,Maria Oliveira,Brasília,Carteira,Acessórios,3,59.9
+22,13/04/2024,Fernanda Costa,Brasília,Sandália,calçados,1,89.9
+23,27/12/2023,Rafael Alves,Belo Horizonte,Vestido Floral,Roupas,2,149.9
+24,2024-06-06,Rafael Alves,Rio de Janeiro,Cinto,Acessórios,4,44.9
+25,2023-01-20,Lucas Rocha,RECIFE,Cinto,Acessórios,1,44.9
+26,2024-06-12,Diego Martins,Recife,Boné,Roupas,3,39.9
+27,2024-08-12,Camila Ferreira,Curitiba,Camiseta Básica,Roupas,4,49.9
+28,2023-03-10,Pedro Santos,Curitiba,Camiseta Básica,Roupas,0,49.9
+29,2023-09-29,João Souza,Recife,tênis casual,Calçados,3,199.9
+30,2023-04-19,João Souza,Belo Horizonte,cinto,Acessórios,2,44.9
+31,2024-10-29,João Souza,São Paulo,Chinelo,Calçados,5,49.9
+32,2024-04-04,Maria Oliveira,Rio de Janeiro,Cinto,ACESSÓRIOS,2,"44,9"
+33,27/11/2024,Carla Lima,Brasília,Chinelo,Calçados,5,49.9
+34,2023-01-28,Bruno Carvalho,Manaus,tênis casual,Calçados,4,199.9
+35,2023-03-20,Camila Ferreira,Belo Horizonte,Carteira,Acessórios,5,59.9
+36,2024-07-02,Camila Ferreira,Porto Alegre,Calça Jeans,Roupas,3,129.9
+37,2023-04-15,camila ferreira,Salvador,Sandália,CALÇADOS,1,89.9
+38,2023-10-14,Bruno Carvalho,Fortaleza,Vestido Floral,Roupas,1,
+39,2024-10-20,Juliana Mendes,Fortaleza,Mochila,Acessórios,3,159.9
+40,03/10/2024,Ana Silva,Rio de Janeiro,Camiseta Básica,Roupas,4,49.9
+41,2024-03-22,Thiago Barbosa,São Paulo,Boné,Roupas,1,R$ 39.9
+42,2023-09-10,carla lima,Belo Horizonte,Tênis Casual,Calçados,5,199.9
+43,2024-12-18,,Recife,CALÇA JEANS,roupas,3,"129,9"
+44,2024-06-13,Pedro Santos,Belo Horizonte,Mochila,Acessórios,2,159.9
+45,2023-06-13,Fernanda Costa,Curitiba,Cinto,Acessórios,3,44.9
+46,2023-10-13,Thiago Barbosa,Rio de Janeiro,Mochila,Acessórios,3,159.9
+47,,Juliana Mendes,Brasília,CARTEIRA,Acessórios,3,"59,9"
+48,2024-10-14,Camila Ferreira,Curitiba,Mochila,Acessórios,3,159.9
+49,2024-01-19,Lucas Rocha,Porto Alegre,boné,roupas,2,39.9
+50,09/03/2024,Carla Lima,Belo Horizonte,Sandália,Calçados,4,89.9
+51,04/02/2024,Juliana Mendes,São Paulo,Chinelo,Calçados,4,49.9
+52,2023-05-05,,Recife,Mochila,Acessórios,1,159.9
+53,,,São Paulo,Tênis Casual,Calçados,4,199.9
+54,2024-08-01,Fernanda Costa,Brasília,Calça Jeans,Roupas,5,129.9
+55,2024-11-08,Bruno Carvalho,São Paulo,Camiseta Básica,Roupas,1,R$ 49.9
+56,2023-12-21,Larissa Nunes,Curitiba,Carteira,Acessórios,5,59.9
+57,2024-12-26,,rio de janeiro,Carteira,acessórios,3,59.9
+58,2023-05-05,Juliana Mendes,CURITIBA,Carteira,Acessórios,2,59.9
+59,2023-10-20,Camila Ferreira,Curitiba,Camiseta Básica,Roupas,3,R$ 49.9
+60,2024-08-06,Camila Ferreira,São Paulo,Sandália,Calçados,3,89.9
+61,14/12/2024,Ana Silva,Belo Horizonte,Cinto,Acessórios,1,44.9
+62,2023/09/07,Patricia Gomes,Belo Horizonte,Calça Jeans,Roupas,5,"129,9"
+63,2023-06-07,João Souza,Porto Alegre,Calça Jeans,Roupas,0,129.9
+64,2023-10-10,Ana Silva,Fortaleza,Carteira,acessórios,2,59.9
+65,2023-12-07,Rafael Alves,Curitiba,Sandália,Calçados,3,R$ 89.9
+66,2023-09-28,,Belo Horizonte,Calça Jeans,Roupas,3,129.9
+67,2024-06-02,Camila Ferreira,Fortaleza,Camiseta Básica,Roupas,3,49.9
+68,2023-04-12,Ana Silva,Salvador,Sandália,Calçados,3,"89,9"
+69,2024-10-25,Rafael Alves,Rio de Janeiro,Calça Jeans,Roupas,2,129.9
+70,2023-06-04,JOÃO SOUZA,Belo Horizonte,Chinelo,Calçados,2,"49,9"
+71,2023/01/20,Larissa Nunes,RIO DE JANEIRO,Camiseta Básica,Roupas,3,"49,9"
+72,2024/01/24,Fernanda Costa,Manaus,Chinelo,Calçados,2,49.9
+73,30/03/2023,Thiago Barbosa,Curitiba,Vestido Floral,Roupas,1,"149,9"
+74,2024-11-21,João Souza,Curitiba,Camiseta Básica,Roupas,5,R$ 49.9
+75,2023-11-21,Juliana Mendes,Brasília,Chinelo,Calçados,4,49.9
+76,20/12/2024,Patricia Gomes,São Paulo,Camiseta Básica,Roupas,2,49.9
+77,,Camila Ferreira,Curitiba,Cinto,Acessórios,4,44.9
+78,2023-08-19,Juliana Mendes,Porto Alegre,Mochila,Acessórios,3,159.9
+79,2024-06-26,Ana Silva,Recife,Mochila,Acessórios,3,159.9
+80,2024-02-01,João Souza,Manaus,Mochila,acessórios,2,159.9
+81,2023-08-11,Pedro Santos,Porto Alegre,Tênis Casual,calçados,1,199.9
+82,2024-12-24,Pedro Santos,Porto Alegre,Camiseta Básica,Roupas,3,49.9
+83,2024-09-09,Juliana Mendes,Manaus,Boné,Roupas,2,39.9
+84,2023-06-02,Patricia Gomes,Fortaleza,CARTEIRA,Acessórios,5,59.9
+85,2023-03-12,Patricia Gomes,Belo Horizonte,Tênis Casual,Calçados,5,199.9
+86,2023-07-03,Thiago Barbosa,fortaleza,Chinelo,Calçados,1,49.9
+87,24/03/2023,Ana Silva,manaus,Tênis Casual,Calçados,2,R$ 199.9
+88,2023/12/14,Ana Silva,Fortaleza,Calça Jeans,Roupas,1,
+89,2024-04-13,Carla Lima,Belo Horizonte,Chinelo,Calçados,5,49.9
+90,06/12/2023,Ana Silva,Fortaleza,Boné,Roupas,2,39.9
+91,2024-06-17,RAFAEL ALVES,Curitiba,Carteira,Acessórios,-1,R$ 59.9
+92,2024-04-30,Thiago Barbosa,São Paulo,CAMISETA BÁSICA,Roupas,2,49.9
+93,2023-06-17,Juliana Mendes,Curitiba,Tênis Casual,Calçados,4,199.9
+94,2023-03-12,Patricia Gomes,Salvador,Boné,Roupas,5,R$ 39.9
+95,2024-08-05,MARIA OLIVEIRA,Fortaleza,Carteira,Acessórios,-1,59.9
+96,18/04/2024,Patricia Gomes,Manaus,Camiseta Básica,Roupas,4,49.9
+97,2023-12-18,rafael alves,Rio de Janeiro,Camiseta Básica,Roupas,1,"49,9"
+98,2024-06-07,Lucas Rocha,Belo Horizonte,Tênis Casual,Calçados,4,"199,9"
+99,2023/01/20,Larissa Nunes,RIO DE JANEIRO,Camiseta Básica,Roupas,3,"49,9"
+100,2024-09-20,Lucas Rocha,Brasília,Calça Jeans,Roupas,4,129.9
+101,2023-06-13,Fernanda Costa,Curitiba,Cinto,Acessórios,3,44.9
+102,2024-09-28,Ana Silva,Recife,Calça Jeans,Roupas,5,R$ 129.9
+103,20/07/2023,Bruno Carvalho,Brasília,Vestido Floral,Roupas,4,149.9
+104,,Maria Oliveira,Porto Alegre,Mochila,Acessórios,3,159.9
+105,2023/04/20,Carla Lima,Rio de Janeiro,Tênis Casual,Calçados,5,199.9
+106,2024-11-01,João Souza,RIO DE JANEIRO,Boné,Roupas,5,
+107,07/12/2023,Camila Ferreira,Brasília,Calça Jeans,Roupas,2,129.9
+108,11/10/2023,João Souza,fortaleza,Camiseta Básica,Roupas,1,49.9
+109,2023-04-20,Fernanda Costa,recife,Sandália,CALÇADOS,2,89.9
+110,2024-08-23,Juliana Mendes,são paulo,Tênis Casual,Calçados,5,199.9
+111,2024-08-16,Thiago Barbosa,Brasília,Mochila,Acessórios,4,159.9
+112,2024-09-23,MARIA OLIVEIRA,Fortaleza,Carteira,Acessórios,3,59.9
+113,2024-08-09,Juliana Mendes,Recife,Boné,Roupas,2,R$ 39.9
+114,08/12/2024,João Souza,Brasília,Sandália,Calçados,2,89.9
+115,04/02/2023,,Rio de Janeiro,tênis casual,Calçados,3,199.9
+116,2023-04-04,Maria Oliveira,FORTALEZA,Chinelo,Calçados,2,49.9
+117,2023-10-24,Maria Oliveira,Manaus,Camiseta Básica,Roupas,2,49.9
+118,2023-05-25,Rafael Alves,rio de janeiro,Calça Jeans,Roupas,2,129.9
+119,2024-01-12,Larissa Nunes,Curitiba,Vestido Floral,Roupas,5,149.9
+120,2023-01-26,Larissa Nunes,Fortaleza,Tênis Casual,Calçados,2,199.9
+121,2024/12/21,,Porto Alegre,Mochila,Acessórios,4,159.9
+122,15/02/2024,Thiago Barbosa,RIO DE JANEIRO,CALÇA JEANS,Roupas,4,129.9
+123,2023/02/07,João Souza,Recife,Tênis Casual,Calçados,3,199.9
+124,2024-12-13,João Souza,Belo Horizonte,tênis casual,Calçados,1,199.9
+125,2024-05-17,Camila Ferreira,Recife,Mochila,Acessórios,2,159.9
+126,2023-12-08,Thiago Barbosa,Belo Horizonte,Cinto,Acessórios,1,"44,9"
+127,2024-10-04,Patricia Gomes,Rio de Janeiro,Tênis Casual,Calçados,1,199.9
+128,19/04/2023,Camila Ferreira,Fortaleza,Carteira,Acessórios,1,59.9
+129,2023-05-14,Thiago Barbosa,curitiba,Camiseta Básica,Roupas,2,49.9
+130,06/11/2023,João Souza,Salvador,Cinto,Acessórios,3,"44,9"
+131,2024-05-03,Fernanda Costa,Recife,Tênis Casual,calçados,2,199.9
+132,2023-11-05,Maria Oliveira,Porto Alegre,Tênis Casual,Calçados,3,R$ 199.9
+133,2023-11-24,Camila Ferreira,Recife,Calça Jeans,Roupas,2,129.9
+134,2023-09-29,Patricia Gomes,Brasília,Camiseta Básica,Roupas,2,49.9
+135,04/08/2024,Ana Silva,Porto Alegre,Camiseta Básica,Roupas,5,49.9
+136,09/09/2023,Diego Martins,manaus,Sandália,Calçados,2,89.9
+137,2024-06-29,Maria Oliveira,Recife,Carteira,Acessórios,3,59.9
+138,2023-12-22,Maria Oliveira,RECIFE,Camiseta Básica,Roupas,5,49.9
+139,2024/11/01,Patricia Gomes,Salvador,Tênis Casual,Calçados,1,199.9
+140,2023-01-02,Diego Martins,Rio de Janeiro,Calça Jeans,ROUPAS,2,"129,9"
+141,2024-09-25,Bruno Carvalho,brasília,Boné,Roupas,2,39.9
+142,2024/05/04,Diego Martins,Belo Horizonte,Boné,Roupas,1,R$ 39.9
+143,2024-09-20,Fernanda Costa,São Paulo,BONÉ,Roupas,2,39.9
+144,01/06/2023,Lucas Rocha,Brasília,Calça Jeans,Roupas,1,129.9
+145,2023-06-06,Thiago Barbosa,Rio de Janeiro,CAMISETA BÁSICA,Roupas,2,49.9
+146,,Rafael Alves,Brasília,boné,Roupas,0,39.9
+147,11/10/2023,João Souza,fortaleza,Camiseta Básica,Roupas,1,49.9
+148,2023-11-30,Maria Oliveira,Salvador,Chinelo,Calçados,2,49.9
+149,2023-09-06,Bruno Carvalho,Recife,cinto,Acessórios,4,
+150,2024-03-03,Larissa Nunes,Belo Horizonte,Camiseta Básica,Roupas,2,R$ 49.9
+151,2023-10-23,Diego Martins,Recife,Boné,Roupas,4,39.9
+152,2023-04-25,João Souza,Brasília,Carteira,Acessórios,1,59.9
+153,2024-12-13,Larissa Nunes,Brasília,Boné,roupas,1,39.9
+154,2024-06-04,Pedro Santos,Brasília,Boné,Roupas,2,39.9
+155,,Juliana Mendes,Brasília,SANDÁLIA,Calçados,5,89.9
+156,2023-08-23,diego martins,São Paulo,CALÇA JEANS,Roupas,1,129.9
+157,2024-02-13,Diego Martins,Porto Alegre,sandália,Calçados,3,89.9
+158,2023-08-13,camila ferreira,Fortaleza,Calça Jeans,Roupas,2,129.9
+159,2024-09-20,Lucas Rocha,Brasília,Calça Jeans,Roupas,4,129.9
+160,15/02/2024,Camila Ferreira,Salvador,Camiseta Básica,Roupas,3,49.9
+161,2024-11-08,Carla Lima,FORTALEZA,Camiseta Básica,Roupas,1,49.9
+162,2024-11-14,João Souza,Salvador,Vestido Floral,Roupas,3,149.9
+163,2024-10-05,Juliana Mendes,Porto Alegre,Calça Jeans,roupas,5,129.9
+164,2024-08-17,Fernanda Costa,Recife,CHINELO,Calçados,5,49.9
+165,06/02/2023,,Manaus,Vestido Floral,Roupas,5,149.9
+166,2024/07/18,lucas rocha,Belo Horizonte,Chinelo,Calçados,5,49.9
+167,2024-10-20,Patricia Gomes,Brasília,Vestido Floral,Roupas,5,149.9
+168,11/02/2023,fernanda costa,Manaus,Chinelo,Calçados,1,49.9
+169,2024/08/26,Pedro Santos,São Paulo,Tênis Casual,calçados,5,199.9
+170,2023-12-28,Ana Silva,Brasília,Boné,Roupas,2,
+171,2024/04/13,Fernanda Costa,Manaus,CALÇA JEANS,Roupas,2,129.9
+172,2023-11-05,Ana Silva,Manaus,Cinto,Acessórios,4,R$ 44.9
+173,2024/04/26,Fernanda Costa,São Paulo,Calça Jeans,Roupas,2,129.9
+174,02/12/2023,Rafael Alves,recife,Carteira,Acessórios,5,59.9
+175,2024-04-27,Fernanda Costa,Manaus,Carteira,Acessórios,5,59.9
+176,2024/08/29,Patricia Gomes,belo horizonte,Chinelo,Calçados,5,49.9
+177,25/11/2023,Juliana Mendes,porto alegre,Tênis Casual,Calçados,1,199.9
+178,2024-05-06,CAMILA FERREIRA,Salvador,Boné,Roupas,-1,39.9
+179,12/08/2023,Carla Lima,São Paulo,Boné,Roupas,5,39.9
+180,2023-12-01,Patricia Gomes,Fortaleza,Mochila,Acessórios,4,159.9
+181,2023-08-13,Pedro Santos,Brasília,Camiseta Básica,Roupas,1,R$ 49.9
+182,2023-05-29,Ana Silva,Porto Alegre,cinto,Acessórios,2,44.9
+183,2023-02-22,Juliana Mendes,Curitiba,CALÇA JEANS,roupas,3,129.9
+184,2024-12-11,Rafael Alves,Belo Horizonte,Calça Jeans,Roupas,3,R$ 129.9
+185,2023-01-13,Thiago Barbosa,Fortaleza,Carteira,Acessórios,3,59.9
+186,2023/04/26,Carla Lima,Curitiba,Vestido Floral,Roupas,3,149.9
+187,,Lucas Rocha,Recife,Carteira,Acessórios,3,"59,9"
+188,2024-12-19,Larissa Nunes,Brasília,Mochila,Acessórios,3,159.9
+189,2023-06-20,Rafael Alves,Fortaleza,Boné,Roupas,4,39.9
+190,2023-11-05,Maria Oliveira,Porto Alegre,Tênis Casual,Calçados,3,R$ 199.9
+191,20/07/2024,Lucas Rocha,Rio de Janeiro,Mochila,Acessórios,4,
+192,2024-06-23,Camila Ferreira,Manaus,Chinelo,Calçados,1,49.9
+193,06/11/2024,Larissa Nunes,Recife,Cinto,acessórios,4,44.9
+194,2024-01-10,Camila Ferreira,Manaus,Tênis Casual,Calçados,5,199.9
+195,2023/03/16,Carla Lima,Recife,Boné,Roupas,1,39.9
+196,20/07/2024,Lucas Rocha,Rio de Janeiro,Mochila,Acessórios,4,
+197,2023/10/22,Larissa Nunes,Recife,Camiseta Básica,Roupas,5,49.9
+198,2024-06-26,Bruno Carvalho,Belo Horizonte,Calça Jeans,Roupas,3,129.9
+199,2024/01/31,Carla Lima,São Paulo,Calça Jeans,Roupas,1,129.9
+200,2023/07/20,Carla Lima,Belo Horizonte,Boné,Roupas,3,39.9
+201,2024-11-02,,Recife,Carteira,Acessórios,3,
+202,12/03/2024,Camila Ferreira,Salvador,CARTEIRA,Acessórios,1,59.9
+203,2023-10-18,Patricia Gomes,Rio de Janeiro,tênis casual,Calçados,5,199.9
+204,22/12/2024,Maria Oliveira,Porto Alegre,Calça Jeans,roupas,5,129.9
+205,2023-03-31,Rafael Alves,são paulo,Chinelo,Calçados,3,49.9
+206,2023-03-22,Maria Oliveira,Belo Horizonte,Tênis Casual,Calçados,5,199.9
+207,2023-09-07,Camila Ferreira,Salvador,Camiseta Básica,Roupas,2,
+208,2023-05-03,Carla Lima,Salvador,mochila,Acessórios,1,159.9
+209,28/08/2023,Bruno Carvalho,Fortaleza,Sandália,Calçados,4,89.9
+210,2023-07-05,,Porto Alegre,Vestido Floral,Roupas,5,149.9
+211,2023-11-25,Maria Oliveira,Porto Alegre,Cinto,Acessórios,5,
+212,2024-06-02,Camila Ferreira,Fortaleza,Camiseta Básica,Roupas,3,49.9
+213,2024-03-15,Fernanda Costa,Curitiba,Chinelo,Calçados,2,49.9
+214,2023-11-14,Juliana Mendes,Rio de Janeiro,Carteira,acessórios,4,R$ 59.9
+215,2024-03-05,PEDRO SANTOS,Fortaleza,Chinelo,Calçados,4,49.9
+216,2023-04-25,João Souza,Brasília,Carteira,Acessórios,1,59.9
+217,2024-01-13,João Souza,Recife,Chinelo,Calçados,0,49.9
+218,2024-12-01,BRUNO CARVALHO,São Paulo,Carteira,Acessórios,2,59.9
+219,2024-11-23,João Souza,Brasília,Mochila,Acessórios,5,159.9
+220,2023-05-12,Pedro Santos,Recife,Calça Jeans,roupas,1,129.9
+221,2023-10-06,Ana Silva,Rio de Janeiro,Cinto,Acessórios,4,44.9
+222,2024-07-12,Larissa Nunes,Belo Horizonte,Calça Jeans,Roupas,1,129.9
+223,2024-07-05,Ana Silva,Manaus,Boné,Roupas,2,R$ 39.9
+224,2023/10/23,Maria Oliveira,Recife,Chinelo,Calçados,2,49.9
+225,2023/03/20,Camila Ferreira,Fortaleza,Tênis Casual,Calçados,3,199.9
+226,2024-01-24,Lucas Rocha,Salvador,Vestido Floral,roupas,-1,149.9
+227,2023-11-12,FERNANDA COSTA,Brasília,Calça Jeans,Roupas,1,129.9
+228,2024-02-11,Diego Martins,Curitiba,Cinto,Acessórios,2,44.9
+229,2023-06-04,JOÃO SOUZA,Belo Horizonte,Chinelo,Calçados,2,"49,9"
+230,31/08/2024,Diego Martins,Manaus,Carteira,Acessórios,1,59.9
+231,2023-09-22,Thiago Barbosa,Brasília,TÊNIS CASUAL,Calçados,3,199.9
+232,04/02/2024,Juliana Mendes,São Paulo,Chinelo,Calçados,4,49.9
+233,,Larissa Nunes,Fortaleza,Boné,Roupas,4,39.9
+234,2023-05-18,Thiago Barbosa,Curitiba,Calça Jeans,Roupas,3,129.9
+235,06/05/2024,Carla Lima,Brasília,Calça Jeans,Roupas,2,
+236,2024-01-15,Fernanda Costa,Belo Horizonte,Carteira,Acessórios,5,59.9
+237,29/06/2024,Thiago Barbosa,Rio de Janeiro,Vestido Floral,Roupas,2,149.9
+238,2023-02-24,Juliana Mendes,salvador,Calça Jeans,Roupas,1,129.9
+239,2024-02-12,João Souza,Porto Alegre,Calça Jeans,roupas,4,129.9
+240,2024-02-19,Carla Lima,Fortaleza,Mochila,Acessórios,4,159.9
+241,2024-05-23,Lucas Rocha,Belo Horizonte,Boné,roupas,4,39.9
+242,2023/11/08,Juliana Mendes,São Paulo,Boné,Roupas,3,39.9
+243,09/10/2023,bruno carvalho,Fortaleza,Carteira,Acessórios,1,59.9
+244,04/08/2024,Diego Martins,salvador,Camiseta Básica,Roupas,5,49.9
+245,2023-05-02,Patricia Gomes,Salvador,tênis casual,Calçados,2,199.9
+246,2023-02-23,Thiago Barbosa,Porto Alegre,tênis casual,Calçados,4,199.9
+247,2023-02-14,Diego Martins,Recife,Tênis Casual,Calçados,4,199.9
+248,2024-09-24,,Recife,Carteira,Acessórios,2,59.9
+249,2024-12-26,Diego Martins,Recife,Camiseta Básica,Roupas,2,49.9
+250,2024-09-02,Ana Silva,rio de janeiro,Mochila,Acessórios,4,159.9
+251,2024-09-18,Fernanda Costa,Manaus,SANDÁLIA,Calçados,4,89.9
+252,04/11/2023,Pedro Santos,Fortaleza,Chinelo,Calçados,3,49.9
+253,2023-03-02,Maria Oliveira,Fortaleza,Calça Jeans,Roupas,3,"129,9"
+254,2024-12-07,Larissa Nunes,Porto Alegre,Chinelo,Calçados,1,49.9
+255,2023-04-17,Thiago Barbosa,PORTO ALEGRE,Boné,roupas,2,39.9
+256,2023/07/25,Maria Oliveira,Curitiba,Camiseta Básica,Roupas,1,49.9
+257,2023-08-31,rafael alves,Rio de Janeiro,Calça Jeans,Roupas,2,129.9
+258,15/10/2024,Carla Lima,Belo Horizonte,Chinelo,Calçados,4,R$ 49.9
+259,2023-11-23,Camila Ferreira,Manaus,Boné,Roupas,4,39.9
+260,2023/12/26,Larissa Nunes,SALVADOR,Mochila,acessórios,1,"159,9"
+261,2023-05-03,Bruno Carvalho,Salvador,Calça Jeans,ROUPAS,5,R$ 129.9
+262,13/12/2023,Fernanda Costa,Fortaleza,Mochila,Acessórios,5,159.9
+263,2023-06-04,Diego Martins,Manaus,Cinto,Acessórios,3,44.9
+264,2024-12-17,Rafael Alves,Porto Alegre,Calça Jeans,roupas,0,129.9
+265,2024-07-28,Pedro Santos,Fortaleza,CINTO,Acessórios,5,44.9
+266,14/11/2024,Rafael Alves,Manaus,Cinto,acessórios,3,44.9
+267,2023-03-10,Ana Silva,Belo Horizonte,Vestido Floral,Roupas,2,149.9
+268,2023-09-05,Patricia Gomes,São Paulo,Calça Jeans,Roupas,3,129.9
+269,2024-02-23,Juliana Mendes,Recife,Chinelo,calçados,-1,49.9
+270,2024-05-29,ANA SILVA,Belo Horizonte,Vestido Floral,roupas,5,"149,9"
+271,2023-06-01,Ana Silva,São Paulo,carteira,Acessórios,5,"59,9"
+272,2024-04-09,Maria Oliveira,FORTALEZA,Chinelo,Calçados,3,49.9
+273,2024-12-21,Rafael Alves,Manaus,Tênis Casual,calçados,3,199.9
+274,,Carla Lima,Brasília,Vestido Floral,Roupas,-1,"149,9"
+275,2023-07-11,,Rio de Janeiro,Calça Jeans,roupas,4,129.9
+276,2024-08-24,,BRASÍLIA,Camiseta Básica,Roupas,5,"49,9"
+277,2024-01-25,Patricia Gomes,Brasília,Chinelo,Calçados,2,49.9
+278,07/01/2023,THIAGO BARBOSA,São Paulo,CALÇA JEANS,Roupas,4,129.9
+279,05/12/2023,,Recife,Sandália,Calçados,2,89.9
+280,2024-10-27,Juliana Mendes,Curitiba,Camiseta Básica,Roupas,5,49.9
+281,2023-11-13,Ana Silva,Salvador,Carteira,Acessórios,2,59.9
+282,2024-06-18,Fernanda Costa,Belo Horizonte,Tênis Casual,Calçados,3,199.9
+283,,Camila Ferreira,Curitiba,Calça Jeans,Roupas,2,R$ 129.9
+284,06/10/2023,Lucas Rocha,Fortaleza,Camiseta Básica,roupas,5,49.9
+285,2024-05-24,Camila Ferreira,Rio de Janeiro,Calça Jeans,Roupas,2,129.9
+286,2023-02-01,Carla Lima,BELO HORIZONTE,Mochila,acessórios,4,159.9
+287,2023-08-20,Patricia Gomes,Curitiba,Camiseta Básica,Roupas,0,"49,9"
+288,2024/01/24,Fernanda Costa,Manaus,Chinelo,Calçados,2,49.9
+289,2023-06-11,Maria Oliveira,Salvador,Cinto,Acessórios,-1,44.9
+290,2024-06-23,Camila Ferreira,Manaus,Chinelo,Calçados,1,49.9
+291,2024-11-13,Pedro Santos,Curitiba,Carteira,Acessórios,1,59.9
+292,01/05/2024,PEDRO SANTOS,Brasília,Sandália,Calçados,0,R$ 89.9
+293,2024-07-29,Larissa Nunes,São Paulo,vestido floral,Roupas,4,149.9
+294,2023-07-03,Larissa Nunes,Belo Horizonte,Boné,Roupas,1,39.9
+295,2023-07-22,Maria Oliveira,Porto Alegre,Calça Jeans,Roupas,2,129.9
+296,2024-12-04,Lucas Rocha,Fortaleza,Chinelo,Calçados,2,49.9
+297,2024-07-07,DIEGO MARTINS,manaus,boné,Roupas,3,39.9
+298,2024/11/16,pedro santos,São Paulo,sandália,Calçados,5,89.9
+299,2024-09-13,Maria Oliveira,Brasília,Carteira,Acessórios,1,"59,9"
+300,08/09/2023,Ana Silva,Porto Alegre,Calça Jeans,Roupas,-1,"129,9"
+301,2024/11/01,Patricia Gomes,Salvador,Tênis Casual,Calçados,1,199.9
+302,03/05/2024,Fernanda Costa,fortaleza,Boné,Roupas,4,39.9
+303,,Maria Oliveira,Fortaleza,Camiseta Básica,Roupas,4,49.9
+304,2024-07-13,Camila Ferreira,Recife,Camiseta Básica,Roupas,2,"49,9"
+305,2024-09-24,,Recife,Carteira,Acessórios,2,59.9
+306,2023/04/06,Rafael Alves,São Paulo,Vestido Floral,Roupas,3,149.9
+307,2024-11-29,Patricia Gomes,Rio de Janeiro,Camiseta Básica,Roupas,0,49.9
+308,2023-08-17,Camila Ferreira,Salvador,Cinto,Acessórios,0,44.9
+309,2023-08-19,João Souza,Manaus,BONÉ,Roupas,2,39.9
+310,2023-12-04,Camila Ferreira,Porto Alegre,Vestido Floral,Roupas,3,149.9
+311,2023-07-28,João Souza,Manaus,Mochila,Acessórios,2,159.9
+312,2024-09-08,Ana Silva,Belo Horizonte,Cinto,Acessórios,3,44.9
+313,2023/02/01,Camila Ferreira,São Paulo,Calça Jeans,Roupas,2,R$ 129.9
+314,30/03/2023,ANA SILVA,Curitiba,SANDÁLIA,Calçados,4,89.9
+315,2024-10-21,Larissa Nunes,Porto Alegre,Calça Jeans,roupas,2,129.9

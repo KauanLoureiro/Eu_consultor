@@ -1,0 +1,17 @@
+Empresa: VidaMais Clínicas S.A.
+Setor: Saúde — rede de clínicas médicas multiespecialidade
+
+Contexto: A VidaMais opera em várias cidades com médicos de diferentes especialidades.
+O sistema legado exportou um dump de consultas dos últimos 2 anos. 
+Seu trabalho é limpar e responder perguntas estratégicas para o time de gestão.
+
+Perguntas de negócio:
+1) Qual é o total de consultas realizadas por especialidade?
+
+2) Qual convênio gerou mais receita total para a clínica?
+
+3) Qual médico tem a melhor avaliação média entre os que têm ao menos 10 avaliações válidas?
+
+4) Qual a taxa de cancelamento por especialidade mês a mês? Existe alguma especialidade com tendência crescente de cancelamentos?
+
+5) Identifique os pacientes que consultaram com mais de uma especialidade diferente. Qual o valor médio gasto por esses pacientes comparado aos que usaram apenas uma especialidade?

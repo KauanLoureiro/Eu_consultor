@@ -1,0 +1,17 @@
+Empresa: Moda Fácil Ltda.
+
+Setor: Varejo de Moda (roupas, calçados e acessórios)
+
+Contexto: Rede de lojas físicas com presença em várias capitais brasileiras. 
+O time de dados recebeu um dump do sistema legado de vendas dos últimos 2 anos e precisa que você limpe e carregue os dados para análise.
+
+Perguntas de negócio:
+1) Qual é o faturamento total por categoria de produto?
+
+2) Quais são as 5 cidades com maior volume de vendas (em R$)?
+
+3) Qual produto tem o maior ticket médio por unidade vendida?
+
+4) Como evoluiu o faturamento mês a mês ao longo dos 2 anos?
+
+5) Existe sazonalidade nas vendas? Compare o volume de cada trimestre.

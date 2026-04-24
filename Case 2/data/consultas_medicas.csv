@@ -1,0 +1,419 @@
+id_consulta,data_consulta,nome_paciente,nome_medico,especialidade,convenio,status,valor_consulta,avaliacao_paciente
+1,2023-08-19,Aline Monteiro,Dra. Renata Souza,Psiquiatria,Unimed,Realizada,"300,00",2
+2,2023-01-24,Carlos Eduardo,Dr. Marcos Vinicius,Dermatologia,Amil,Cancelada,220.00,
+3,2023-05-15,Gustavo Teixeira,Dra. Renata Souza,Psiquiatria,Amil,Realizada,300.00,6
+4,2023-01-01,Mariana Azevedo,Dr. Marcos Vinicius,Dermatologia,sulamérica,REALIZADA,,4
+5,10-10-2023,Fabio Correia,Dra. Renata Souza,Psiquiatria,Bradesco Saúde,Aguardando,300.00,
+6,2022-07-22,André Moreira,Dr. Marcos Vinicius,DERMATOLOGIA,Particular,Aguardando,220.00,
+7,2023-06-10,Isabela Cunha,Dra. Juliana Prado,Ortopedia,Bradesco Saúde,Realizada,"280,00",4
+8,24/09/2023,Fabio Correia,Marcos Vinicius,Dermatologia,SulAmérica,Realizada,,3
+9,2023-06-20,Wellington Melo,DRA. RENATA SOUZA,Psiquiatria,unimed,Aguardando,300.00,
+10,2023-05-08,Isabela Cunha,Dra. Renata Souza,Psiquiatria,Particular,Aguardando,300.00,
+11,2022-08-02,Vanessa Cardoso,Dra. Juliana Prado,Ortopedia,Particular,Cancelada,280.00,
+12,2023-11-25,ALINE MONTEIRO,Dra. Luciana Torres,Ginecologia,SulAmérica,Aguardando,250.00,
+13,04/01/2023,Marcos Alves,Dra. Juliana Prado,Ortopedia,SulAmérica,Cancelada,280.00,
+14,06-08-2022,Carlos Eduardo,Dra. Juliana Prado,Ortopedia,Bradesco Saúde,Realizada,280.00,5
+15,18-11-2023,Vanessa Cardoso,Dra. Ana Beatriz,Cardiologia,Unimed,Aguardando,350.00,
+16,2022-04-20,Henrique Pinto,Renata Souza,Psiquiatria,Bradesco Saúde,Aguardando,R$300.00,
+17,2022-11-24,Leandro Figueiredo,Dr. Henrique Castro,Pediatria,Unimed,Cancelada,180.00,
+18,2022-03-26,Gustavo Teixeira,Dra. Juliana Prado,Ortopedia,Bradesco Saúde,realizada,"280,00",2
+19,2022-08-23,Wellington Melo,DRA. ANA BEATRIZ,Cardiologia,Bradesco Saúde,Realizada,,1
+20,2022-08-21,Isabela Cunha,Dr. Carlos Mendes,Cardiologia,,Realizada,350.00,2
+21,27-01-2023,Leandro Figueiredo,Felipe Andrade,Oftalmologia,Bradesco Saúde,realizada,200.00,4
+22,2023-07-26,Wellington Melo,Dr. Henrique Castro,Pediatria,Particular,Cancelada,180.00,
+23,2023-03-22,CLAUDIA ROCHA,Dra. Ana Beatriz,Cardiologia,Particular,CANCELADA,350.00,
+24,2022-05-05,Rodrigo Cavalcanti,Dr. Carlos Mendes,Cardiologia,bradesco saúde,Aguardando,350.00,
+25,2022-03-29,Leandro Figueiredo,Dr. Marcos Vinicius,Dermatologia,Bradesco Saúde,Aguardando,"220,00",
+26,2023-04-05,Patrícia Borges,Dra. Renata Souza,Psiquiatria,,CANCELADA,300.00,
+27,2022-11-28,Gustavo Teixeira,Marcos Vinicius,Dermatologia,BRADESCO SAÚDE,Aguardando,220.00,
+28,2022-04-24,,Dra. Juliana Prado,ortopedia,Amil,Aguardando,280.00,
+29,06/11/2022,Patrícia Borges,Dr. Carlos Mendes,Cardiologia,SulAmérica,Realizada,350.00,2
+30,2022-04-23,Patrícia Borges,Felipe Andrade,Oftalmologia,UNIMED,realizada,200.00,2
+31,2022-02-05,Henrique Pinto,Dr. Roberto Farias,Ortopedia,Unimed,Realizada,280.00,1
+32,2022-09-07,Fernanda Souza,Dra. Renata Souza,Psiquiatria,SulAmérica,Realizada,300.00,3
+33,2022-04-27,,Dra. Juliana Prado,ortopedia,Particular,Realizada,280.00,2
+34,2023-09-25,Vanessa Cardoso,Dr. Marcos Vinicius,Dermatologia,Bradesco Saúde,REALIZADA,220.00,5
+35,2022-06-04,Gustavo Teixeira,Dr. Carlos Mendes,Cardiologia,SulAmérica,Realizada,350.00,3
+36,2023-12-24,Vanessa Cardoso,Dr. Roberto Farias,Ortopedia,BRADESCO SAÚDE,Realizada,,1
+37,2023-04-18,Aline Monteiro,DRA. JULIANA PRADO,Ortopedia,SulAmérica,Cancelada,280.00,
+38,04/08/2023,Gustavo Teixeira,Dra. Juliana Prado,Ortopedia,amil,Aguardando,280.00,
+39,2023-05-23,Claudia Rocha,Dr. Henrique Castro,Pediatria,Particular,Realizada,180.00,2
+40,2022-12-28,Carlos Eduardo,Dr. Roberto Farias,Ortopedia,Amil,Realizada,"280,00",2
+41,03/04/2022,Aline Monteiro,Dr. Marcos Vinicius,Dermatologia,Particular,Aguardando,220.00,
+42,2023-02-11,Natalia Vieira,Dr. Henrique Castro,Pediatria,Bradesco Saúde,Realizada,R$180.00,5
+43,,Claudia Rocha,Dra. Renata Souza,Psiquiatria,Particular,Cancelada,300.00,
+44,15/04/2022,Mariana Azevedo,Dr. Henrique Castro,PEDIATRIA,Amil,Realizada,R$180.00,1
+45,13/05/2022,Vanessa Cardoso,Dr. Marcos Vinicius,Dermatologia,Unimed,Realizada,220.00,1
+46,15/08/2022,Gustavo Teixeira,Dra. Sofia Ramos,Neurologia,SulAmérica,Cancelada,"400,00",
+47,2023-01-09,Henrique Pinto,Dra. Luciana Torres,GINECOLOGIA,Unimed,Realizada,250.00,4
+48,2022-10-29,Rodrigo Cavalcanti,Dr. Marcos Vinicius,Dermatologia,Particular,Aguardando,220.00,
+49,2022-09-04,Aline Monteiro,DR. HENRIQUE CASTRO,PEDIATRIA,Amil,Realizada,180.00,1
+50,2022-11-15,Claudia Rocha,Sofia Ramos,Neurologia,Unimed,AGUARDANDO,"400,00",
+51,2022-04-07,Patrícia Borges,Dr. Carlos Mendes,Cardiologia,Amil,Cancelada,350.00,
+52,2022-06-28,Beatriz Lima,Dr. Carlos Mendes,Cardiologia,SulAmérica,Realizada,350.00,3
+53,2022-04-28,Henrique Pinto,Dra. Ana Beatriz,Cardiologia,SulAmérica,REALIZADA,350.00,5
+54,18/04/2022,André Moreira,DR. MARCOS VINICIUS,Dermatologia,Unimed,Aguardando,R$220.00,
+55,2023-02-19,Marcos Alves,DR. HENRIQUE CASTRO,Pediatria,Unimed,aguardando,180.00,
+56,2023-04-21,Letícia Barros,Dr. Roberto Farias,Ortopedia,Amil,CANCELADA,280.00,
+57,2023-10-17,Natalia Vieira,Dra. Renata Souza,Psiquiatria,Unimed,Cancelada,300.00,
+58,2022-03-10,Isabela Cunha,Dra. Ana Beatriz,Cardiologia,BRADESCO SAÚDE,Realizada,350.00,3
+59,,Vanessa Cardoso,Dra. Luciana Torres,Ginecologia,Unimed,Cancelada,250.00,
+60,2022-12-20,Isabela Cunha,Dra. Sofia Ramos,Neurologia,Particular,Realizada,400.00,3
+61,2022-02-14,Letícia Barros,Dra. Juliana Prado,Ortopedia,Unimed,Realizada,280.00,5
+62,2023-02-23,Mariana Azevedo,Dr. Marcos Vinicius,Dermatologia,Bradesco Saúde,Aguardando,R$220.00,
+63,2023-01-14,Isabela Cunha,Dra. Sofia Ramos,Neurologia,Particular,Realizada,400.00,6
+64,2022-11-03,Fabio Correia,Dra. Luciana Torres,Ginecologia,Particular,Cancelada,R$250.00,
+65,2023-04-12,Marcos Alves,Dr. Henrique Castro,Pediatria,Bradesco Saúde,REALIZADA,180.00,4
+66,06/09/2023,,Dr. Felipe Andrade,Oftalmologia,Bradesco Saúde,Realizada,"200,00",5
+67,2023-05-19,Ricardo Nunes,Dra. Ana Beatriz,Cardiologia,Bradesco Saúde,Aguardando,350.00,
+68,2023-08-27,Patrícia Borges,Dr. Carlos Mendes,Cardiologia,Bradesco Saúde,Realizada,350.00,1
+69,2023-02-03,Leandro Figueiredo,Dra. Sofia Ramos,Neurologia,SulAmérica,Realizada,,2
+70,2022-10-04,Patrícia Borges,Dr. Henrique Castro,Pediatria,Unimed,Realizada,,1
+71,2022-10-03,Isabela Cunha,Dra. Juliana Prado,Ortopedia,Particular,Realizada,280.00,0
+72,2022-02-11,André Moreira,Dr. Henrique Castro,Pediatria,Bradesco Saúde,Cancelada,180.00,
+73,2022-01-14,Mariana Azevedo,Dr. Henrique Castro,Pediatria,Bradesco Saúde,Realizada,180.00,3
+74,2022-09-08,Gustavo Teixeira,Dra. Juliana Prado,ORTOPEDIA,Bradesco Saúde,Realizada,,2
+75,2023-01-03,Patrícia Borges,Dr. Carlos Mendes,Cardiologia,SulAmérica,Aguardando,350.00,
+76,2023-01-18,Isabela Cunha,Dr. Felipe Andrade,Oftalmologia,SulAmérica,Aguardando,R$200.00,
+77,08/04/2022,Carlos Eduardo,Dra. Luciana Torres,Ginecologia,SulAmérica,Realizada,250.00,4
+78,2022-11-17,Isabela Cunha,Dra. Luciana Torres,Ginecologia,sulamérica,Realizada,R$250.00,1
+79,29/03/2023,Claudia Rocha,DRA. RENATA SOUZA,Psiquiatria,Bradesco Saúde,Realizada,300.00,5
+80,16-02-2023,Ricardo Nunes,Dr. Carlos Mendes,Cardiologia,Particular,Realizada,350.00,2
+81,,Marcos Alves,Carlos Mendes,Cardiologia,Unimed,Cancelada,350.00,
+82,2022-12-19,Fernanda Souza,Dr. Henrique Castro,Pediatria,Amil,Realizada,R$180.00,4
+83,2022-09-18,Vanessa Cardoso,DR. ROBERTO FARIAS,Ortopedia,Unimed,Cancelada,280.00,
+84,2022-05-06,André Moreira,Dra. Renata Souza,Psiquiatria,amil,Realizada,300.00,2
+85,2022-08-27,Patrícia Borges,Dra. Ana Beatriz,Cardiologia,Particular,Aguardando,350.00,
+86,2023-01-27,Isabela Cunha,Dra. Juliana Prado,Ortopedia,Unimed,Realizada,280.00,2
+87,2022-04-10,Letícia Barros,Dra. Sofia Ramos,Neurologia,Bradesco Saúde,Realizada,400.00,-1
+88,2022-04-21,Patrícia Borges,Dra. Ana Beatriz,Cardiologia,Unimed,Cancelada,350.00,
+89,16/10/2023,Natalia Vieira,Dr. Carlos Mendes,Cardiologia,Amil,Aguardando,350.00,
+90,2022-09-14,Aline Monteiro,Dra. Juliana Prado,Ortopedia,SulAmérica,Aguardando,"280,00",
+91,28-07-2022,Henrique Pinto,Henrique Castro,pediatria,Unimed,Aguardando,180.00,
+92,22-07-2022,Gustavo Teixeira,Dr. Marcos Vinicius,Dermatologia,PARTICULAR,Cancelada,R$220.00,
+93,,Leandro Figueiredo,Dr. Carlos Mendes,Cardiologia,Unimed,Realizada,R$350.00,2
+94,2023-09-26,Aline Monteiro,Dr. Marcos Vinicius,DERMATOLOGIA,Particular,Realizada,220.00,2
+95,2023-12-30,Natalia Vieira,Dr. Roberto Farias,Ortopedia,Amil,Cancelada,280.00,
+96,2022-09-15,,Dra. Luciana Torres,Ginecologia,sulamérica,Realizada,250.00,5
+97,17-12-2022,Natalia Vieira,Dra. Ana Beatriz,CARDIOLOGIA,Unimed,Aguardando,"350,00",
+98,2022-04-24,,Dra. Juliana Prado,ortopedia,Amil,Aguardando,280.00,
+99,2023-10-23,Aline Monteiro,Dra. Renata Souza,Psiquiatria,Unimed,Cancelada,300.00,
+100,,Vanessa Cardoso,Dra. Luciana Torres,Ginecologia,Unimed,Cancelada,250.00,
+101,2023-10-04,Ricardo Nunes,Dra. Juliana Prado,Ortopedia,Bradesco Saúde,Realizada,280.00,-1
+102,2022-03-22,RICARDO NUNES,Dra. Juliana Prado,Ortopedia,Particular,Realizada,280.00,1
+103,2024-01-01,Beatriz Lima,DR. FELIPE ANDRADE,Oftalmologia,,Realizada,200.00,2
+104,2022-09-17,Henrique Pinto,Dra. Luciana Torres,GINECOLOGIA,Particular,Cancelada,"250,00",
+105,2023-02-15,Fabio Correia,Dra. Sofia Ramos,NEUROLOGIA,unimed,Realizada,"400,00",5
+106,2023-03-25,Rodrigo Cavalcanti,Dra. Sofia Ramos,Neurologia,Bradesco Saúde,Cancelada,"400,00",
+107,2022-10-22,Isabela Cunha,Dra. Sofia Ramos,Neurologia,particular,realizada,R$400.00,2
+108,11/01/2022,Claudia Rocha,Dr. Marcos Vinicius,Dermatologia,Particular,Aguardando,220.00,
+109,2023-12-31,Ricardo Nunes,Dra. Sofia Ramos,Neurologia,SulAmérica,Aguardando,400.00,
+110,04-11-2023,Letícia Barros,Dr. Roberto Farias,Ortopedia,SulAmérica,Realizada,280.00,4
+111,2022-05-12,Marcos Alves,Dr. Marcos Vinicius,Dermatologia,SulAmérica,Realizada,"220,00",5
+112,2022-05-29,Natalia Vieira,Dra. Juliana Prado,Ortopedia,Bradesco Saúde,realizada,280.00,1
+113,2022-12-20,CLAUDIA ROCHA,Sofia Ramos,neurologia,Unimed,Realizada,"400,00",2
+114,2022-07-17,Leandro Figueiredo,Dr. Henrique Castro,Pediatria,Unimed,Aguardando,180.00,
+115,2023-11-16,Wellington Melo,Dr. Roberto Farias,ORTOPEDIA,Amil,Realizada,280.00,5
+116,2023-02-06,Wellington Melo,Dr. Carlos Mendes,Cardiologia,,Cancelada,350.00,
+117,2022-06-17,Gustavo Teixeira,Dra. Juliana Prado,ORTOPEDIA,Unimed,Realizada,280.00,2
+118,2023-01-21,Marcos Alves,Dr. Felipe Andrade,Oftalmologia,Bradesco Saúde,Realizada,200.00,2
+119,2022-12-22,Patrícia Borges,Dra. Luciana Torres,ginecologia,Particular,Realizada,250.00,-1
+120,2022-02-05,Henrique Pinto,Dr. Roberto Farias,Ortopedia,Unimed,Realizada,280.00,1
+121,2023-03-29,Rodrigo Cavalcanti,Dra. Sofia Ramos,Neurologia,SulAmérica,Cancelada,400.00,
+122,2022-07-10,Letícia Barros,Dra. Renata Souza,Psiquiatria,Particular,Aguardando,300.00,
+123,2022-02-23,Beatriz Lima,Dr. Marcos Vinicius,Dermatologia,Unimed,Realizada,220.00,3
+124,16-10-2022,Natalia Vieira,Dra. Juliana Prado,Ortopedia,PARTICULAR,Realizada,"280,00",3
+125,2022-04-27,André Moreira,Dr. Marcos Vinicius,Dermatologia,SulAmérica,cancelada,"220,00",
+126,07/09/2022,Claudia Rocha,Dr. Henrique Castro,pediatria,SulAmérica,Cancelada,180.00,
+127,27/04/2022,André Moreira,Dr. Marcos Vinicius,Dermatologia,Unimed,Cancelada,220.00,
+128,17/05/2023,Marcos Alves,Dr. Roberto Farias,Ortopedia,sulamérica,Aguardando,280.00,
+129,2022-09-29,Fabio Correia,Dr. Roberto Farias,Ortopedia,Particular,Realizada,280.00,4
+130,,Vanessa Cardoso,Dra. Juliana Prado,Ortopedia,SulAmérica,Realizada,280.00,1
+131,15/09/2023,Claudia Rocha,DRA. LUCIANA TORRES,Ginecologia,Particular,Realizada,250.00,2
+132,2023-05-28,RODRIGO CAVALCANTI,Dr. Roberto Farias,Ortopedia,Bradesco Saúde,Realizada,280.00,4
+133,2023-10-07,Carlos Eduardo,Dr. Felipe Andrade,Oftalmologia,Unimed,Realizada,200.00,2
+134,2022-03-01,Beatriz Lima,Dra. Juliana Prado,Ortopedia,Unimed,Aguardando,280.00,
+135,2023-01-21,Letícia Barros,DRA. LUCIANA TORRES,Ginecologia,Amil,Aguardando,250.00,
+136,2022-07-13,Claudia Rocha,DR. CARLOS MENDES,Cardiologia,BRADESCO SAÚDE,Realizada,350.00,1
+137,13-02-2022,Patrícia Borges,Dr. Felipe Andrade,Oftalmologia,Particular,aguardando,200.00,
+138,2022-02-28,Patrícia Borges,Dr. Marcos Vinicius,Dermatologia,Amil,Realizada,"220,00",2
+139,2022-08-22,Marcos Alves,Dra. Sofia Ramos,Neurologia,,realizada,400.00,1
+140,27-09-2023,Vanessa Cardoso,Dr. Roberto Farias,ortopedia,SulAmérica,Realizada,,4
+141,2022-08-04,Carlos Eduardo,Dra. Sofia Ramos,Neurologia,SulAmérica,aguardando,400.00,
+142,,Patrícia Borges,Dr. Roberto Farias,Ortopedia,Particular,Realizada,280.00,5
+143,2022-07-30,Wellington Melo,Dr. Roberto Farias,Ortopedia,Amil,Aguardando,280.00,
+144,,Gustavo Teixeira,Henrique Castro,Pediatria,Bradesco Saúde,CANCELADA,"180,00",
+145,2022-09-19,Fernanda Souza,Dra. Renata Souza,Psiquiatria,Particular,Realizada,300.00,1
+146,2022-02-24,Carlos Eduardo,Dra. Juliana Prado,Ortopedia,Amil,Aguardando,280.00,
+147,,Patrícia Borges,Dra. Juliana Prado,ORTOPEDIA,particular,Realizada,280.00,2
+148,,Isabela Cunha,Dr. Marcos Vinicius,Dermatologia,Amil,Realizada,220.00,5
+149,02/05/2023,André Moreira,Dr. Roberto Farias,Ortopedia,Bradesco Saúde,Aguardando,280.00,
+150,2023-09-14,Isabela Cunha,Dr. Roberto Farias,Ortopedia,SulAmérica,Cancelada,280.00,
+151,2023-08-23,Wellington Melo,Marcos Vinicius,Dermatologia,Particular,Realizada,220.00,4
+152,2022-02-19,Henrique Pinto,Dr. Marcos Vinicius,Dermatologia,SulAmérica,Realizada,R$220.00,5
+153,18-03-2023,Claudia Rocha,DR. ROBERTO FARIAS,Ortopedia,Particular,Realizada,280.00,5
+154,23/02/2023,Ricardo Nunes,Dra. Renata Souza,Psiquiatria,Particular,Realizada,300.00,1
+155,2023-12-29,Isabela Cunha,Dra. Ana Beatriz,Cardiologia,Amil,Realizada,350.00,2
+156,2022-02-02,Fernanda Souza,Ana Beatriz,Cardiologia,Unimed,Realizada,350.00,1
+157,2022-02-12,Fernanda Souza,Dra. Luciana Torres,Ginecologia,Unimed,Aguardando,250.00,
+158,2022-05-30,Wellington Melo,Dra. Ana Beatriz,Cardiologia,SulAmérica,Realizada,350.00,4
+159,2023-07-01,Leandro Figueiredo,Dra. Luciana Torres,Ginecologia,Unimed,Realizada,250.00,4
+160,2022-07-22,RODRIGO CAVALCANTI,Dr. Henrique Castro,PEDIATRIA,Bradesco Saúde,Realizada,180.00,5
+161,2023-12-21,Claudia Rocha,Dr. Carlos Mendes,Cardiologia,Unimed,Realizada,350.00,5
+162,07/09/2022,Isabela Cunha,Dra. Sofia Ramos,Neurologia,SulAmérica,Aguardando,400.00,
+163,2023-11-16,Wellington Melo,Dr. Roberto Farias,ORTOPEDIA,Amil,Realizada,280.00,5
+164,2023-08-03,,DRA. RENATA SOUZA,Psiquiatria,UNIMED,Realizada,300.00,4
+165,2022-10-27,Wellington Melo,Dra. Ana Beatriz,Cardiologia,Unimed,Aguardando,R$350.00,
+166,2023-08-30,,Dra. Luciana Torres,Ginecologia,SulAmérica,Realizada,R$250.00,-1
+167,2023-07-20,Fabio Correia,Dr. Henrique Castro,Pediatria,Particular,Cancelada,180.00,
+168,14/09/2023,André Moreira,Dr. Roberto Farias,Ortopedia,Amil,Aguardando,280.00,
+169,2023-09-26,Fernanda Souza,Dr. Marcos Vinicius,Dermatologia,amil,Realizada,220.00,4
+170,2023-07-01,Leandro Figueiredo,Dr. Marcos Vinicius,Dermatologia,Amil,Cancelada,220.00,
+171,2023-04-26,Marcos Alves,Dra. Luciana Torres,Ginecologia,Bradesco Saúde,Cancelada,250.00,
+172,,Vanessa Cardoso,Dr. Roberto Farias,Ortopedia,amil,Realizada,280.00,4
+173,2023-11-07,Gustavo Teixeira,Dr. Felipe Andrade,Oftalmologia,,Realizada,"200,00",4
+174,2022-01-05,Fernanda Souza,Dra. Luciana Torres,Ginecologia,,Cancelada,R$250.00,
+175,22-02-2023,Vanessa Cardoso,Dra. Renata Souza,Psiquiatria,SulAmérica,Cancelada,300.00,
+176,2023-05-28,RODRIGO CAVALCANTI,Dr. Roberto Farias,Ortopedia,Bradesco Saúde,Realizada,280.00,4
+177,09-04-2022,MARIANA AZEVEDO,Dr. Marcos Vinicius,Dermatologia,,Cancelada,220.00,
+178,2022-09-19,Fernanda Souza,Dra. Renata Souza,Psiquiatria,Particular,Realizada,300.00,1
+179,22/10/2022,Ricardo Nunes,Dr. Roberto Farias,Ortopedia,amil,realizada,280.00,1
+180,2022-01-02,Aline Monteiro,Dra. Ana Beatriz,Cardiologia,Bradesco Saúde,Realizada,350.00,2
+181,2022-07-18,Letícia Barros,Dra. Juliana Prado,Ortopedia,PARTICULAR,Realizada,280.00,5
+182,2022-06-30,Wellington Melo,DR. MARCOS VINICIUS,Dermatologia,,Realizada,220.00,5
+183,2023-05-31,Vanessa Cardoso,Dra. Juliana Prado,Ortopedia,Bradesco Saúde,Realizada,280.00,2
+184,2023-01-05,,Dra. Sofia Ramos,Neurologia,Unimed,Aguardando,,
+185,12-12-2023,Carlos Eduardo,Dr. Felipe Andrade,Oftalmologia,Bradesco Saúde,Aguardando,200.00,
+186,,Letícia Barros,Dra. Renata Souza,Psiquiatria,Bradesco Saúde,Realizada,300.00,5
+187,28-04-2023,Aline Monteiro,Dr. Carlos Mendes,Cardiologia,Bradesco Saúde,Realizada,350.00,2
+188,2022-03-29,Leandro Figueiredo,Dr. Marcos Vinicius,Dermatologia,Bradesco Saúde,Aguardando,"220,00",
+189,2022-12-18,Henrique Pinto,Dr. Roberto Farias,Ortopedia,Bradesco Saúde,Cancelada,280.00,
+190,2023-07-30,Marcos Alves,Dra. Renata Souza,Psiquiatria,SulAmérica,Realizada,300.00,5
+191,2022-08-16,Patrícia Borges,Dr. Carlos Mendes,Cardiologia,Particular,Aguardando,350.00,
+192,2022-10-27,Wellington Melo,Dra. Ana Beatriz,Cardiologia,Unimed,Aguardando,R$350.00,
+193,2023-08-27,Patrícia Borges,Dr. Roberto Farias,Ortopedia,Particular,Realizada,280.00,4
+194,2022-03-15,Aline Monteiro,Dr. Carlos Mendes,Cardiologia,Particular,Cancelada,350.00,
+195,08-04-2022,,Dra. Sofia Ramos,Neurologia,Amil,Realizada,400.00,1
+196,2023-11-26,Aline Monteiro,Sofia Ramos,Neurologia,Unimed,Realizada,"400,00",2
+197,2022-11-23,,Dra. Renata Souza,Psiquiatria,,Realizada,300.00,3
+198,2022-11-05,Marcos Alves,Dra. Renata Souza,Psiquiatria,Unimed,Realizada,300.00,1
+199,2022-08-30,LETÍCIA BARROS,Dra. Luciana Torres,Ginecologia,Amil,Aguardando,250.00,
+200,2022-08-06,Henrique Pinto,Dr. Henrique Castro,Pediatria,Unimed,Realizada,"180,00",3
+201,2022-11-06,Marcos Alves,DRA. SOFIA RAMOS,Neurologia,Bradesco Saúde,Cancelada,400.00,
+202,2022-05-01,Natalia Vieira,Dra. Luciana Torres,Ginecologia,Amil,Realizada,250.00,1
+203,2022-01-25,André Moreira,Dra. Sofia Ramos,Neurologia,Bradesco Saúde,Realizada,400.00,1
+204,2022-09-10,Isabela Cunha,Dr. Marcos Vinicius,Dermatologia,Unimed,realizada,220.00,3
+205,2023-11-13,,DR. ROBERTO FARIAS,Ortopedia,BRADESCO SAÚDE,Aguardando,280.00,
+206,2022-10-22,Beatriz Lima,Dr. Roberto Farias,ortopedia,Bradesco Saúde,Aguardando,280.00,
+207,2022-04-05,Fernanda Souza,Dr. Felipe Andrade,OFTALMOLOGIA,Unimed,Aguardando,200.00,
+208,2022-11-07,Mariana Azevedo,Dr. Marcos Vinicius,Dermatologia,Unimed,Realizada,220.00,4
+209,2023-08-01,Natalia Vieira,Dr. Felipe Andrade,oftalmologia,SulAmérica,Realizada,200.00,-1
+210,2022-08-30,LETÍCIA BARROS,Dra. Luciana Torres,Ginecologia,Amil,Aguardando,250.00,
+211,2023-08-02,Claudia Rocha,Dr. Roberto Farias,Ortopedia,,Realizada,280.00,5
+212,2022-04-13,Vanessa Cardoso,Dra. Renata Souza,Psiquiatria,Bradesco Saúde,Realizada,300.00,4
+213,2022-09-14,Patrícia Borges,Dr. Felipe Andrade,Oftalmologia,SulAmérica,Cancelada,200.00,
+214,23/03/2023,HENRIQUE PINTO,Dra. Luciana Torres,Ginecologia,Unimed,cancelada,250.00,
+215,2022-05-28,Leandro Figueiredo,DRA. ANA BEATRIZ,Cardiologia,Amil,Cancelada,350.00,
+216,11-02-2022,Mariana Azevedo,Dra. Luciana Torres,Ginecologia,Unimed,Aguardando,250.00,
+217,14/10/2023,,Dr. Felipe Andrade,Oftalmologia,SulAmérica,Realizada,R$200.00,5
+218,2022-07-29,Isabela Cunha,Dr. Henrique Castro,Pediatria,SULAMÉRICA,Realizada,R$180.00,2
+219,2022-11-30,Isabela Cunha,Dr. Roberto Farias,Ortopedia,Unimed,Realizada,280.00,3
+220,2022-05-23,Fernanda Souza,Dr. Felipe Andrade,Oftalmologia,SulAmérica,Cancelada,200.00,
+221,2023-02-10,Letícia Barros,DR. MARCOS VINICIUS,Dermatologia,Unimed,Realizada,220.00,4
+222,2023-04-08,Natalia Vieira,Dra. Ana Beatriz,Cardiologia,Unimed,Realizada,350.00,0
+223,2022-11-06,Rodrigo Cavalcanti,Dra. Juliana Prado,Ortopedia,Bradesco Saúde,Realizada,280.00,5
+224,2022-10-31,Isabela Cunha,DRA. JULIANA PRADO,Ortopedia,BRADESCO SAÚDE,Cancelada,280.00,
+225,03-10-2022,André Moreira,Dra. Sofia Ramos,Neurologia,Amil,Realizada,400.00,2
+226,2023-12-15,Vanessa Cardoso,Dr. Carlos Mendes,Cardiologia,Particular,Realizada,350.00,3
+227,08-10-2023,Fabio Correia,Dra. Sofia Ramos,Neurologia,Unimed,Realizada,400.00,5
+228,2022-11-09,Rodrigo Cavalcanti,Dra. Luciana Torres,Ginecologia,Bradesco Saúde,Realizada,R$250.00,3
+229,2023-03-03,Rodrigo Cavalcanti,Dr. Felipe Andrade,Oftalmologia,SulAmérica,Cancelada,,
+230,2022-01-22,MARIANA AZEVEDO,Ana Beatriz,Cardiologia,SulAmérica,Aguardando,350.00,
+231,2023-02-09,Isabela Cunha,DR. FELIPE ANDRADE,OFTALMOLOGIA,Bradesco Saúde,Cancelada,"200,00",
+232,04/01/2022,Fabio Correia,Dr. Carlos Mendes,Cardiologia,Unimed,Aguardando,350.00,
+233,2022-03-04,Gustavo Teixeira,Dra. Juliana Prado,Ortopedia,particular,Cancelada,280.00,
+234,01/12/2023,Letícia Barros,Juliana Prado,Ortopedia,Bradesco Saúde,AGUARDANDO,280.00,
+235,2023-10-10,Fernanda Souza,Dr. Henrique Castro,Pediatria,Particular,cancelada,"180,00",
+236,2023-11-10,Mariana Azevedo,DR. ROBERTO FARIAS,Ortopedia,Particular,realizada,280.00,2
+237,2023-05-29,Fernanda Souza,Dra. Luciana Torres,Ginecologia,Particular,Realizada,250.00,3
+238,2022-06-03,Patrícia Borges,Dr. Carlos Mendes,Cardiologia,Bradesco Saúde,Realizada,,6
+239,2022-01-06,Carlos Eduardo,Dr. Marcos Vinicius,Dermatologia,SulAmérica,Aguardando,220.00,
+240,2023-07-16,Natalia Vieira,Dr. Marcos Vinicius,Dermatologia,Bradesco Saúde,Cancelada,R$220.00,
+241,12/05/2023,Fabio Correia,DR. FELIPE ANDRADE,Oftalmologia,SulAmérica,Realizada,200.00,5
+242,08-05-2023,,Dra. Ana Beatriz,Cardiologia,UNIMED,Realizada,350.00,5
+243,08-12-2022,Aline Monteiro,Dr. Roberto Farias,Ortopedia,SULAMÉRICA,Cancelada,280.00,
+244,2023-11-19,Mariana Azevedo,Dr. Henrique Castro,Pediatria,Particular,Realizada,180.00,3
+245,2023-08-25,Henrique Pinto,Dra. Juliana Prado,Ortopedia,SulAmérica,Realizada,280.00,5
+246,2023-10-31,Marcos Alves,Dr. Felipe Andrade,Oftalmologia,Bradesco Saúde,Realizada,200.00,4
+247,2023-10-29,Fabio Correia,Dr. Carlos Mendes,Cardiologia,Unimed,Realizada,350.00,2
+248,2023-12-21,Vanessa Cardoso,Dr. Felipe Andrade,Oftalmologia,SulAmérica,Cancelada,"200,00",
+249,2023-08-27,Fabio Correia,Dra. Sofia Ramos,Neurologia,Amil,Realizada,400.00,3
+250,2023-11-02,Isabela Cunha,Dr. Felipe Andrade,Oftalmologia,SulAmérica,Realizada,R$200.00,5
+251,2022-12-01,Letícia Barros,Dra. Ana Beatriz,Cardiologia,SulAmérica,Cancelada,350.00,
+252,2022-06-14,Natalia Vieira,Dra. Renata Souza,Psiquiatria,Particular,Aguardando,300.00,
+253,2023-01-08,Leandro Figueiredo,Dra. Luciana Torres,Ginecologia,Amil,Aguardando,250.00,
+254,22/10/2022,Gustavo Teixeira,Dra. Luciana Torres,Ginecologia,SulAmérica,realizada,250.00,3
+255,2023-09-13,Mariana Azevedo,Dr. Henrique Castro,pediatria,SulAmérica,Aguardando,180.00,
+256,2023-04-08,Leandro Figueiredo,Dr. Roberto Farias,Ortopedia,Particular,Realizada,280.00,5
+257,28-05-2022,Letícia Barros,Dra. Luciana Torres,Ginecologia,Bradesco Saúde,Realizada,250.00,5
+258,2023-01-06,Henrique Pinto,DRA. JULIANA PRADO,Ortopedia,Unimed,Cancelada,280.00,
+259,2022-07-18,Vanessa Cardoso,Dra. Luciana Torres,Ginecologia,Amil,Realizada,250.00,1
+260,2022-08-29,Aline Monteiro,Dr. Felipe Andrade,Oftalmologia,UNIMED,Cancelada,200.00,
+261,2022-05-14,André Moreira,Dra. Sofia Ramos,Neurologia,SulAmérica,Realizada,400.00,3
+262,2023-05-03,Fabio Correia,Dra. Luciana Torres,Ginecologia,Bradesco Saúde,aguardando,250.00,
+263,2023-08-10,CARLOS EDUARDO,Dra. Sofia Ramos,Neurologia,Particular,Realizada,400.00,1
+264,12/08/2022,Mariana Azevedo,Dr. Felipe Andrade,Oftalmologia,Unimed,Realizada,,1
+265,2023-12-07,Isabela Cunha,DRA. ANA BEATRIZ,Cardiologia,Bradesco Saúde,Aguardando,350.00,
+266,2022-07-18,Isabela Cunha,Dr. Marcos Vinicius,Dermatologia,Bradesco Saúde,Cancelada,220.00,
+267,04/10/2023,Rodrigo Cavalcanti,Dra. Ana Beatriz,Cardiologia,Particular,Realizada,,4
+268,09-10-2022,Gustavo Teixeira,Dr. Henrique Castro,Pediatria,Unimed,Realizada,R$180.00,1
+269,18/12/2023,Patrícia Borges,Dr. Felipe Andrade,Oftalmologia,AMIL,Aguardando,R$200.00,
+270,2022-12-24,Ricardo Nunes,Dr. Roberto Farias,Ortopedia,Amil,Realizada,280.00,4
+271,2022-01-01,Isabela Cunha,Dr. Marcos Vinicius,Dermatologia,Bradesco Saúde,Realizada,220.00,3
+272,,Marcos Alves,Renata Souza,Psiquiatria,Particular,Aguardando,,
+273,2023-11-20,LEANDRO FIGUEIREDO,Dr. Carlos Mendes,Cardiologia,SulAmérica,realizada,,5
+274,2022-01-29,Vanessa Cardoso,Dr. Marcos Vinicius,Dermatologia,Amil,Cancelada,220.00,
+275,2023-07-12,André Moreira,Dra. Juliana Prado,Ortopedia,Amil,realizada,280.00,3
+276,2023-02-12,Carlos Eduardo,Dr. Felipe Andrade,OFTALMOLOGIA,sulamérica,Realizada,200.00,1
+277,2022-01-31,André Moreira,Dr. Felipe Andrade,Oftalmologia,SulAmérica,Realizada,200.00,2
+278,2022-05-01,Aline Monteiro,Dra. Luciana Torres,Ginecologia,amil,Realizada,R$250.00,5
+279,2022-03-14,Claudia Rocha,Dr. Roberto Farias,ortopedia,SulAmérica,Realizada,280.00,-1
+280,2022-03-04,Gustavo Teixeira,Dra. Juliana Prado,Ortopedia,particular,Cancelada,280.00,
+281,02-07-2023,Aline Monteiro,Dr. Carlos Mendes,Cardiologia,Particular,Aguardando,350.00,
+282,2023-06-06,Mariana Azevedo,Dra. Luciana Torres,GINECOLOGIA,SulAmérica,cancelada,250.00,
+283,2022-08-07,Carlos Eduardo,Dr. Henrique Castro,Pediatria,Bradesco Saúde,Realizada,180.00,2
+284,2023-10-06,Wellington Melo,DRA. LUCIANA TORRES,Ginecologia,,Realizada,"250,00",1
+285,2023-11-18,André Moreira,Dr. Carlos Mendes,Cardiologia,SulAmérica,REALIZADA,350.00,5
+286,2023-04-07,Natalia Vieira,Dr. Felipe Andrade,Oftalmologia,Bradesco Saúde,realizada,200.00,4
+287,14/09/2023,André Moreira,Dr. Roberto Farias,Ortopedia,Amil,Aguardando,280.00,
+288,2022-01-26,Gustavo Teixeira,Dr. Carlos Mendes,Cardiologia,Amil,Aguardando,350.00,
+289,2023-08-23,Henrique Pinto,Dr. Marcos Vinicius,Dermatologia,Unimed,Realizada,R$220.00,3
+290,2023-08-20,Henrique Pinto,Dr. Felipe Andrade,oftalmologia,unimed,Aguardando,"200,00",
+291,26-04-2023,Ricardo Nunes,Dr. Roberto Farias,Ortopedia,Amil,Cancelada,,
+292,2022-09-12,Marcos Alves,Dra. Juliana Prado,Ortopedia,Particular,Realizada,280.00,1
+293,22-09-2022,Rodrigo Cavalcanti,Dr. Marcos Vinicius,Dermatologia,Unimed,Cancelada,"220,00",
+294,2022-01-01,Leandro Figueiredo,Dr. Roberto Farias,Ortopedia,Unimed,Cancelada,R$280.00,
+295,2023-01-07,Letícia Barros,Dra. Juliana Prado,ORTOPEDIA,Amil,Aguardando,,
+296,2022-03-24,Patrícia Borges,Dra. Juliana Prado,Ortopedia,Bradesco Saúde,Aguardando,280.00,
+297,2022-07-23,NATALIA VIEIRA,Dr. Henrique Castro,Pediatria,Unimed,Realizada,180.00,5
+298,2022-07-17,André Moreira,Dr. Carlos Mendes,Cardiologia,Unimed,Cancelada,350.00,
+299,2023-05-22,Fabio Correia,Dr. Henrique Castro,Pediatria,Bradesco Saúde,Realizada,,2
+300,2022-08-14,Beatriz Lima,Dra. Juliana Prado,Ortopedia,Particular,Cancelada,280.00,
+301,07/08/2022,ALINE MONTEIRO,Dra. Renata Souza,Psiquiatria,Particular,Aguardando,"300,00",
+302,2022-10-03,Carlos Eduardo,Dra. Ana Beatriz,cardiologia,Unimed,Aguardando,"350,00",
+303,2022-03-20,Carlos Eduardo,Dra. Luciana Torres,GINECOLOGIA,SulAmérica,Realizada,R$250.00,4
+304,31/03/2023,Patrícia Borges,Dra. Ana Beatriz,Cardiologia,Particular,Aguardando,R$350.00,
+305,2022-07-18,Leandro Figueiredo,Dra. Juliana Prado,Ortopedia,Particular,Realizada,280.00,4
+306,23/10/2023,Henrique Pinto,Dra. Renata Souza,Psiquiatria,Unimed,Realizada,300.00,4
+307,14-12-2023,Vanessa Cardoso,Dr. Felipe Andrade,Oftalmologia,Bradesco Saúde,Cancelada,200.00,
+308,2022-12-13,Rodrigo Cavalcanti,Marcos Vinicius,DERMATOLOGIA,Amil,Realizada,R$220.00,1
+309,2023-04-26,Isabela Cunha,Dr. Felipe Andrade,Oftalmologia,SulAmérica,Cancelada,"200,00",
+310,,Vanessa Cardoso,Dr. Felipe Andrade,Oftalmologia,SulAmérica,Cancelada,200.00,
+311,2022-09-10,,Dra. Juliana Prado,Ortopedia,Amil,Realizada,280.00,3
+312,15-01-2023,Gustavo Teixeira,Dr. Henrique Castro,Pediatria,Amil,Realizada,R$180.00,1
+313,2023-10-07,Leandro Figueiredo,Dra. Sofia Ramos,Neurologia,Bradesco Saúde,Realizada,400.00,6
+314,2022-02-02,Fernanda Souza,Ana Beatriz,Cardiologia,Unimed,Realizada,350.00,1
+315,02/04/2022,Claudia Rocha,Dra. Renata Souza,Psiquiatria,Bradesco Saúde,cancelada,"300,00",
+316,2023-06-30,Aline Monteiro,Ana Beatriz,Cardiologia,Unimed,Realizada,R$350.00,3
+317,17-06-2023,Henrique Pinto,Dr. Marcos Vinicius,Dermatologia,unimed,Realizada,220.00,5
+318,04/10/2023,Rodrigo Cavalcanti,Dra. Ana Beatriz,Cardiologia,Particular,Realizada,,4
+319,2022-12-06,Natalia Vieira,Dra. Juliana Prado,Ortopedia,Particular,realizada,280.00,5
+320,03/04/2022,Marcos Alves,Dr. Roberto Farias,Ortopedia,Bradesco Saúde,Aguardando,280.00,
+321,2022-03-10,Vanessa Cardoso,Sofia Ramos,Neurologia,SulAmérica,Realizada,400.00,1
+322,2023-09-27,Natalia Vieira,Dra. Luciana Torres,GINECOLOGIA,Amil,Aguardando,250.00,
+323,2022-11-24,Leandro Figueiredo,Dr. Henrique Castro,Pediatria,Unimed,Cancelada,180.00,
+324,2023-10-10,Claudia Rocha,Dr. Roberto Farias,Ortopedia,Bradesco Saúde,Aguardando,"280,00",
+325,2022-11-02,Carlos Eduardo,Dr. Felipe Andrade,Oftalmologia,particular,Realizada,200.00,1
+326,2022-01-23,Isabela Cunha,DR. HENRIQUE CASTRO,Pediatria,Unimed,Realizada,"180,00",1
+327,2022-01-03,Vanessa Cardoso,Dra. Luciana Torres,Ginecologia,SulAmérica,Aguardando,250.00,
+328,2023-06-29,Fabio Correia,Dra. Juliana Prado,Ortopedia,Particular,Realizada,280.00,3
+329,2022-12-14,Aline Monteiro,Dra. Renata Souza,Psiquiatria,Bradesco Saúde,Realizada,300.00,5
+330,2023-01-06,Henrique Pinto,DRA. JULIANA PRADO,Ortopedia,Unimed,Cancelada,280.00,
+331,2023-04-12,Vanessa Cardoso,Dra. Ana Beatriz,Cardiologia,Amil,Realizada,R$350.00,1
+332,2022-02-17,NATALIA VIEIRA,DRA. ANA BEATRIZ,Cardiologia,Particular,Cancelada,350.00,
+333,2022-03-27,Wellington Melo,Dr. Carlos Mendes,Cardiologia,Bradesco Saúde,Aguardando,R$350.00,
+334,2023-05-08,Rodrigo Cavalcanti,Dra. Luciana Torres,Ginecologia,sulamérica,Aguardando,"250,00",
+335,2022-07-17,Fernanda Souza,Dra. Luciana Torres,Ginecologia,SulAmérica,Realizada,250.00,2
+336,2023-11-25,Carlos Eduardo,Dra. Sofia Ramos,Neurologia,Particular,REALIZADA,R$400.00,4
+337,2022-06-08,Leandro Figueiredo,Dr. Marcos Vinicius,Dermatologia,Amil,Realizada,220.00,2
+338,10/05/2023,André Moreira,Dr. Henrique Castro,Pediatria,Particular,Aguardando,"180,00",
+339,06/09/2022,Patrícia Borges,Dr. Henrique Castro,Pediatria,bradesco saúde,Realizada,180.00,3
+340,2023-12-07,ANDRÉ MOREIRA,Dr. Roberto Farias,Ortopedia,SulAmérica,Cancelada,280.00,
+341,2023-04-11,Isabela Cunha,DRA. RENATA SOUZA,Psiquiatria,SulAmérica,Realizada,300.00,1
+342,2023-11-07,Henrique Pinto,Dr. Roberto Farias,Ortopedia,Particular,Realizada,280.00,2
+343,2022-07-26,Aline Monteiro,Dr. Felipe Andrade,Oftalmologia,SulAmérica,Cancelada,200.00,
+344,2023-11-02,VANESSA CARDOSO,Dra. Sofia Ramos,Neurologia,Amil,Cancelada,400.00,
+345,2023-09-04,Carlos Eduardo,Dra. Ana Beatriz,Cardiologia,Amil,Realizada,350.00,5
+346,2023-07-30,Marcos Alves,Dra. Renata Souza,Psiquiatria,SulAmérica,Realizada,300.00,5
+347,02-10-2023,Carlos Eduardo,Dra. Renata Souza,Psiquiatria,SulAmérica,Aguardando,"300,00",
+348,2023-11-08,HENRIQUE PINTO,Dra. Luciana Torres,Ginecologia,Particular,Realizada,R$250.00,4
+349,2022-07-19,Natalia Vieira,Dra. Renata Souza,Psiquiatria,Amil,Realizada,300.00,3
+350,2022-11-06,Natalia Vieira,DRA. ANA BEATRIZ,Cardiologia,SulAmérica,Realizada,"350,00",5
+351,26-07-2022,Mariana Azevedo,Dra. Ana Beatriz,Cardiologia,Particular,Cancelada,350.00,
+352,19/03/2023,Isabela Cunha,Dra. Juliana Prado,Ortopedia,Amil,Cancelada,280.00,
+353,2023-01-07,ALINE MONTEIRO,Dra. Sofia Ramos,NEUROLOGIA,SulAmérica,Cancelada,400.00,
+354,2023-11-02,Claudia Rocha,DRA. LUCIANA TORRES,Ginecologia,Particular,Realizada,250.00,4
+355,2022-08-22,FERNANDA SOUZA,Dr. Carlos Mendes,Cardiologia,SulAmérica,Cancelada,350.00,
+356,2022-10-21,Natalia Vieira,Dr. Marcos Vinicius,Dermatologia,SulAmérica,Realizada,220.00,4
+357,2022-02-25,Fernanda Souza,Dra. Luciana Torres,Ginecologia,Unimed,Realizada,250.00,3
+358,2023-08-03,Aline Monteiro,Dr. Roberto Farias,Ortopedia,Particular,Realizada,,3
+359,2022-04-13,Ricardo Nunes,Dr. Henrique Castro,Pediatria,Particular,Cancelada,180.00,
+360,2022-11-24,Wellington Melo,Dra. Renata Souza,Psiquiatria,SulAmérica,Realizada,300.00,6
+361,,Vanessa Cardoso,Dra. Sofia Ramos,Neurologia,Bradesco Saúde,Realizada,400.00,3
+362,2023-05-03,Isabela Cunha,Dr. Roberto Farias,Ortopedia,Unimed,Aguardando,280.00,
+363,2023-04-05,Leandro Figueiredo,Dra. Renata Souza,Psiquiatria,Amil,Cancelada,R$300.00,
+364,2022-12-15,Vanessa Cardoso,Dr. Henrique Castro,Pediatria,SulAmérica,Cancelada,180.00,
+365,2023-02-07,Aline Monteiro,DR. HENRIQUE CASTRO,Pediatria,SulAmérica,REALIZADA,R$180.00,5
+366,2023-03-11,Rodrigo Cavalcanti,Dra. Renata Souza,Psiquiatria,Bradesco Saúde,Aguardando,300.00,
+367,22-02-2022,Natalia Vieira,Dra. Juliana Prado,Ortopedia,Amil,Aguardando,280.00,
+368,2023-05-23,Rodrigo Cavalcanti,Dr. Roberto Farias,Ortopedia,Amil,Realizada,280.00,2
+369,2023-01-04,André Moreira,Dr. Carlos Mendes,Cardiologia,SulAmérica,Realizada,350.00,2
+370,08-07-2023,ALINE MONTEIRO,Dra. Ana Beatriz,Cardiologia,Amil,Realizada,350.00,1
+371,2022-12-14,Isabela Cunha,Dr. Roberto Farias,Ortopedia,Bradesco Saúde,Realizada,280.00,4
+372,2022-04-30,Leandro Figueiredo,DR. MARCOS VINICIUS,Dermatologia,SulAmérica,Aguardando,R$220.00,
+373,2022-10-09,Ricardo Nunes,Dra. Luciana Torres,Ginecologia,,cancelada,250.00,
+374,2022-02-11,Isabela Cunha,Dr. Roberto Farias,Ortopedia,Particular,Realizada,280.00,1
+375,2022-10-12,Ricardo Nunes,Dr. Carlos Mendes,Cardiologia,Particular,Realizada,350.00,4
+376,2023-08-22,Beatriz Lima,Dra. Luciana Torres,Ginecologia,Particular,Aguardando,250.00,
+377,2022-11-24,Beatriz Lima,Dr. Carlos Mendes,Cardiologia,Unimed,Realizada,350.00,1
+378,01/02/2023,André Moreira,Dra. Ana Beatriz,Cardiologia,Bradesco Saúde,aguardando,R$350.00,
+379,2022-04-27,Aline Monteiro,Dr. Roberto Farias,Ortopedia,,Realizada,,4
+380,2023-04-17,Fernanda Souza,Dra. Ana Beatriz,Cardiologia,,Cancelada,,
+381,23/09/2023,Fernanda Souza,Dr. Marcos Vinicius,Dermatologia,SulAmérica,Realizada,220.00,2
+382,2022-03-09,Gustavo Teixeira,Dr. Marcos Vinicius,DERMATOLOGIA,SulAmérica,Realizada,220.00,3
+383,08/09/2022,,Dr. Marcos Vinicius,Dermatologia,Unimed,Realizada,R$220.00,3
+384,2023-09-06,Leandro Figueiredo,Dr. Carlos Mendes,Cardiologia,Particular,Cancelada,350.00,
+385,2023-08-13,Beatriz Lima,Dr. Roberto Farias,Ortopedia,SulAmérica,Aguardando,,
+386,29/08/2023,MARIANA AZEVEDO,Dra. Sofia Ramos,Neurologia,Unimed,Realizada,400.00,1
+387,2022-09-20,Letícia Barros,Dr. Carlos Mendes,Cardiologia,Amil,Realizada,"350,00",1
+388,22/12/2023,Fernanda Souza,Dra. Juliana Prado,Ortopedia,PARTICULAR,Realizada,,2
+389,2023-01-30,Marcos Alves,Dr. Marcos Vinicius,dermatologia,SulAmérica,Cancelada,220.00,
+390,2023-04-20,Beatriz Lima,DRA. ANA BEATRIZ,Cardiologia,Bradesco Saúde,Realizada,R$350.00,4
+391,2022-03-27,MARCOS ALVES,Dra. Luciana Torres,Ginecologia,Particular,Realizada,250.00,5
+392,,Beatriz Lima,Dra. Juliana Prado,Ortopedia,Bradesco Saúde,Realizada,280.00,2
+393,2023-02-01,Beatriz Lima,Dra. Sofia Ramos,Neurologia,Particular,realizada,400.00,2
+394,27/12/2022,Vanessa Cardoso,Dra. Ana Beatriz,Cardiologia,Unimed,Aguardando,350.00,
+395,2023-09-10,Henrique Pinto,Dra. Sofia Ramos,Neurologia,Amil,Cancelada,400.00,
+396,2023-09-07,Natalia Vieira,Dr. Felipe Andrade,Oftalmologia,SulAmérica,Realizada,200.00,3
+397,20/07/2023,Rodrigo Cavalcanti,Dra. Sofia Ramos,Neurologia,SulAmérica,Aguardando,400.00,
+398,2022-05-01,Isabela Cunha,Dra. Juliana Prado,Ortopedia,Bradesco Saúde,Realizada,280.00,3
+399,26/10/2023,Ricardo Nunes,Dra. Ana Beatriz,Cardiologia,bradesco saúde,Realizada,350.00,1
+400,2023-06-29,Patrícia Borges,Luciana Torres,Ginecologia,UNIMED,cancelada,250.00,
+401,2023-09-27,Natalia Vieira,Dra. Luciana Torres,GINECOLOGIA,Amil,Aguardando,250.00,
+402,2022-01-08,Aline Monteiro,Dr. Carlos Mendes,Cardiologia,Amil,Realizada,350.00,5
+403,2022-09-20,Fernanda Souza,Dra. Juliana Prado,Ortopedia,Bradesco Saúde,Aguardando,280.00,
+404,24/09/2023,André Moreira,Dr. Felipe Andrade,Oftalmologia,unimed,Realizada,200.00,3
+405,2022-06-08,Leandro Figueiredo,Dr. Marcos Vinicius,Dermatologia,Amil,Realizada,220.00,2
+406,,Patrícia Borges,Luciana Torres,ginecologia,Unimed,Realizada,250.00,1
+407,2023-11-14,,Dr. Felipe Andrade,Oftalmologia,Amil,realizada,200.00,5
+408,2023-10-05,Gustavo Teixeira,Dra. Ana Beatriz,Cardiologia,Unimed,Cancelada,"350,00",
+409,2023-07-03,Aline Monteiro,Dr. Henrique Castro,Pediatria,Bradesco Saúde,Realizada,"180,00",4
+410,17/11/2023,Ricardo Nunes,Dra. Juliana Prado,Ortopedia,Unimed,Realizada,280.00,3
+411,2023-07-14,LEANDRO FIGUEIREDO,Dr. Marcos Vinicius,Dermatologia,Amil,Cancelada,R$220.00,
+412,2022-08-31,Letícia Barros,Dr. Marcos Vinicius,Dermatologia,Unimed,Cancelada,220.00,
+413,2022-02-26,Gustavo Teixeira,Dr. Felipe Andrade,OFTALMOLOGIA,Bradesco Saúde,cancelada,200.00,
+414,2022-04-06,Isabela Cunha,Dra. Sofia Ramos,Neurologia,Bradesco Saúde,Realizada,R$400.00,-1
+415,,Natalia Vieira,Dra. Sofia Ramos,Neurologia,Unimed,aguardando,"400,00",
+416,2022-08-12,Fernanda Souza,Dr. Marcos Vinicius,Dermatologia,SulAmérica,cancelada,220.00,
+417,2022-09-20,Wellington Melo,Dr. Roberto Farias,ORTOPEDIA,Amil,Realizada,280.00,0
+418,19/02/2022,Beatriz Lima,Dr. Marcos Vinicius,Dermatologia,Unimed,Realizada,220.00,2
