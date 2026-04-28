@@ -1,0 +1,41 @@
+cliente_id,nome,email,telefone,cidade,estado,data_cadastro,segmento,limite_credito
+1,João Silva,joao.silva@gmail.com,(11) 98765-4321,São Paulo,SP,2021-03-15,Varejo,5000.00
+2,Maria Souza,MARIA.SOUZA@HOTMAIL.COM,11 99234-5678,são paulo,SP,2021-04-02,Atacado,15000.00
+3,Pedro Alves,pedro.alves@yahoo.com,(21)98001-2345,Rio de Janeiro,RJ,2021-04-10,Varejo,3500.00
+4,Ana Costa,,21 97654-3210,rio de janeiro,RJ,2021-05-01,Varejo,3500.00
+5,Carlos Mendes,carlos.mendes@empresa.com,(31) 96543-2109,Belo Horizonte,MG,2021-05-20,Atacado,20000.00
+6,Fernanda Lima,fernanda.lima@gmail.com,(31) 95432-1098,belo horizonte,MG,2021-06-08,Varejo,4200.00
+7,Roberto Nunes,roberto.nunes@outlook.com,(41) 94321-0987,Curitiba,PR,2021-06-15,Premium,50000.00
+8,Juliana Martins,juliana.martins@gmail.com,41 93210-9876,curitiba,PR,2021-07-01,Varejo,6000.00
+9,Marcos Oliveira,marcos.oliveira@empresa.com,(51) 92109-8765,Porto Alegre,RS,2021-07-22,Atacado,18000.00
+10,Patricia Santos,patricia.santos@gmail.com,(51) 91098-7654,porto alegre,RS,2021-08-05,Varejo,4500.00
+11,Lucas Ferreira,lucas.ferreira@hotmail.com,(61) 90987-6543,Brasília,DF,2021-08-19,Premium,75000.00
+12,Camila Rocha,camila.rocha@gmail.com,61 89876-5432,brasília,DF,2021-09-03,Varejo,5500.00
+13,Eduardo Gomes,eduardo.gomes@yahoo.com,(71) 88765-4321,Salvador,BA,2021-09-17,Atacado,12000.00
+14,Aline Pereira,aline.pereira@empresa.com,,Salvador,BA,2021-10-01,Varejo,3800.00
+15,Thiago Carvalho,thiago.carvalho@gmail.com,(81) 87654-3210,Recife,PE,2021-10-14,Varejo,4100.00
+16,Daniela Ribeiro,daniela.ribeiro@outlook.com,(81) 86543-2109,recife,PE,2021-11-02,Atacado,16000.00
+17,Felipe Araújo,felipe.araujo@gmail.com,(85) 85432-1098,Fortaleza,CE,2021-11-20,Varejo,3200.00
+18,Larissa Cardoso,larissa.cardoso@gmail.com,85 84321-0987,fortaleza,CE,2021-12-05,Premium,60000.00
+19,Gustavo Pinto,gustavo.pinto@empresa.com,(91) 83210-9876,Belém,PA,2022-01-10,Varejo,2900.00
+20,Renata Nascimento,renata.nascimento@yahoo.com,(91) 82109-8765,belém,PA,2022-01-25,Atacado,11000.00
+21,Vinícius Teixeira,vinicius.teixeira@gmail.com,(62) 81098-7654,Goiânia,GO,2022-02-08,Varejo,3700.00
+22,Bruna Lopes,bruna.lopes@hotmail.com,(62) 80987-6543,goiânia,GO,2022-02-22,Varejo,4300.00
+23,Rafael Batista,rafael.batista@gmail.com,(65) 79876-5432,Cuiabá,MT,2022-03-07,Atacado,13500.00
+24,Isabela Dias,isabela.dias@empresa.com,(65) 78765-4321,cuiabá,MT,2022-03-21,Varejo,5100.00
+25,André Moreira,andre.moreira@outlook.com,(67) 77654-3210,Campo Grande,MS,2022-04-04,Premium,80000.00
+26,Tatiana Freitas,tatiana.freitas@gmail.com,,campo grande,MS,2022-04-18,Varejo,3600.00
+27,Diego Cavalcanti,diego.cavalcanti@yahoo.com,(84) 76543-2109,Natal,RN,2022-05-02,Varejo,2800.00
+28,Priscila Barbosa,priscila.barbosa@gmail.com,(84) 75432-1098,natal,RN,2022-05-16,Atacado,14000.00
+29,Henrique Costa,henrique.costa@empresa.com,(82) 74321-0987,Maceió,AL,2022-05-30,Varejo,3300.00
+30,Vanessa Medeiros,vanessa.medeiros@outlook.com,(82) 73210-9876,maceió,AL,2022-06-13,Varejo,4800.00
+31,Rodrigo Fonseca,rodrigo.fonseca@gmail.com,(79) 72109-8765,Aracaju,SE,2022-06-27,Atacado,17000.00
+32,Giovanna Pires,giovanna.pires@hotmail.com,79 71098-7654,aracaju,SE,2022-07-11,Varejo,5200.00
+33,Matheus Rezende,matheus.rezende@gmail.com,(83) 70987-6543,João Pessoa,PB,2022-07-25,Varejo,3900.00
+34,Amanda Vieira,amanda.vieira@empresa.com,(83) 69876-5432,joão pessoa,PB,2022-08-08,Premium,55000.00
+35,Leonardo Cunha,leonardo.cunha@outlook.com,(86) 68765-4321,Teresina,PI,2022-08-22,Varejo,3100.00
+36,Natália Campos,natalia.campos@yahoo.com,,teresina,PI,2022-09-05,Atacado,10500.00
+37,Marcelo Souza,marcelo.souza@gmail.com,(98) 67654-3210,São Luís,MA,2022-09-19,Varejo,2700.00
+38,Letícia Moura,leticia.moura@hotmail.com,(98) 66543-2109,são luís,MA,2022-10-03,Varejo,4600.00
+39,Samuel Nogueira,samuel.nogueira@empresa.com,(27) 65432-1098,Vitória,ES,2022-10-17,Atacado,19000.00
+40,Bárbara Ramos,barbara.ramos@gmail.com,(27) 64321-0987,vitória,ES,2022-10-31,Varejo,5700.00

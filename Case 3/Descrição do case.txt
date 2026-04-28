@@ -1,0 +1,15 @@
+Empresa: Distribuidora Atalaia
+Setor: Distribuição de Insumos Agrícolas — Norte/Nordeste do Brasil
+
+Contexto: 
+
+Perguntas de negócio:
+1) Quais clientes do segmento Premium estão cadastrados e qual é o limite de crédito de cada um?
+
+2) Qual é o valor total faturado por estado em pedidos com status "Entregue"? Ordene do maior para o menor.
+
+3) Quais clientes fizeram pedidos cujo valor total ultrapassou seu próprio limite de crédito em um único pedido?
+
+4) Para cada vendedor, qual foi o mês com maior volume de vendas em pedidos entregues?
+
+5) Identifique clientes com ao menos 2 pedidos em 2023 cujo último pedido foi há mais de 90 dias da data mais recente na base.
