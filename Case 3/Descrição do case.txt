@@ -1,7 +1,12 @@
 Empresa: Distribuidora Atalaia
 Setor: Distribuição de Insumos Agrícolas — Norte/Nordeste do Brasil
 
-Contexto: 
+Contexto: A Distribuidora Atalaia atua na comercialização de insumos agrícolas para clientes dos segmentos Varejo,
+Atacado e Premium nas regiões Norte e Nordeste do Brasil.
+As vendas ocorrem por múltiplos canais (Online, Televendas e Loja Física) e 
+são realizadas por uma equipe interna de vendedores. Cada cliente possui um limite de crédito pré-aprovado e 
+um histórico de pedidos com informações de valor, desconto, forma de pagamento e status de entrega.
+A área de dados precisa responder perguntas estratégicas para apoiar decisões comerciais, de crédito e de retenção de clientes.
 
 Perguntas de negócio:
 1) Quais clientes do segmento Premium estão cadastrados e qual é o limite de crédito de cada um?
