@@ -4,7 +4,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?logo=pandas&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Local-336791?logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-red)
-![Status](https://img.shields.io/badge/Status-Em%20andamento-yellow)
+![Status](https://img.shields.io/badge/Status-Finalizado-green)
 
 ---
 
@@ -16,8 +16,8 @@ Para fugir dos tutoriais guiados e enfrentar problemas reais, utilizei uma IA at
 
 Os dados que produzo servem a dois times downstream:
 
-- 👨‍💼 **Time de Análise de Dados** — que consome a camada silver para extrair insights de negócio via SQL.
-- 🤖 **Time de Ciência de Dados** — que utiliza os dados estruturados para treinar modelos de churn, previsão de demanda, score de risco, entre outros.
+- 👨‍💼 **Time de Análise de Dados** — que consome a camada silver e gold para extrair insights de negócio via SQL.
+- 🤖 **Time de Ciência de Dados** — que utiliza os dados estruturados e modelados na camada gold para treinar modelos de churn, previsão de demanda, score de risco, entre outros.
 
 A dinâmica de cada case consiste em:
 
@@ -45,9 +45,6 @@ Este projeto foi estruturado para desenvolver especificamente três competência
 - **Manipulação de Dados:** Pandas, NumPy
 - **Banco de Dados:** PostgreSQL (local)
 - **Conexão Python ↔ Banco:** psycopg2, SQLAlchemy
-- **Identificadores:** uuid6 (UUID v7)
-- **Gerenciamento de Credenciais:** python-dotenv
-- **IDE:** VS Code / Jupyter Notebook
 
 ---
 
@@ -57,22 +54,27 @@ Todos os cases seguem a mesma arquitetura de dados em camadas:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  🥉 BRONZE — Raw                                            │
+│  🥉 BRONZE                                                  │
 │  CSV sujo recebido do sistema legado da empresa             │
 │  Sem nenhuma transformação — dado original preservado       │
 └───────────────────────────┬─────────────────────────────────┘
                             │  Python + Pandas
                             │  (limpeza, padronização, imputação)
 ┌───────────────────────────▼─────────────────────────────────┐
-│  🥈 SILVER — Trusted                                        │
-│  Dados limpos e tipados carregados no PostgreSQL            │
-│  Prontos para consumo pelos times de Analytics e DS         │
+│  🥈 SILVER                                                  │
+│  Dados limpos e estruturados                                │
 └───────────────────────────┬─────────────────────────────────┘
                             │
+                            |
+┌───────────────────────────▼─────────────────────────────────┐
+│  🥇 GOLD                                                    │
+│  Dados Prontos para geração de insights e atuação em modelos│
+└───────────────────────────┬─────────────────────────────────┘
+                            |
                ┌────────────┴────────────┐
                │                         │
 ┌──────────────▼──────────┐ ┌────────────▼──────────────────┐
-│  👨‍💼 Analytics            │ │  🤖 Data Science              │
+│  👨‍💼 Analytics           │ │  🤖 Data Science             │
 │  Perguntas de negócio   │ │  Modelos de churn,            │
 │  respondidas via SQL    │ │  previsão, score de risco...  │
 └─────────────────────────┘ └───────────────────────────────┘
@@ -96,8 +98,7 @@ case_2.consultas_silver   -- VidaMais Clínicas S.A.
 
 - **Desafio Técnico:** Dataset com datas em 3 formatos distintos (`YYYY-MM-DD`, `DD/MM/YYYY`, `YYYY/MM/DD`), preços com prefixo `R$` e vírgula decimal, capitalização inconsistente em produto/cidade/cliente, quantidades negativas e ~15 duplicatas embaralhadas. Imputação de preços nulos pela **média do próprio produto**.
 - **ETL:** Limpeza com Pandas → geração de IDs únicos com **UUID v7** → carga via `COPY` no PostgreSQL com schema dedicado `case_1`.
-- **SQL:** 5 perguntas de negócio respondidas via `pd.read_sql`, incluindo **Window Function** (`SUM OVER`) para faturamento acumulado e **CTEs duplas** para análise trimestral.
-- **Insight de Negócio:** Q4 é consistentemente o trimestre mais forte e cresceu **+15,3% em 2024**. Q1 apresentou queda expressiva de **-36,1%** ano a ano — padrão típico de varejo de moda pós-festas que merece monitoramento em 2025 para confirmação de sazonalidade.
+- **SQL:** 5 perguntas de negócio respondidas via queries, incluindo **Window Function** (`SUM OVER`) para faturamento acumulado e **CTEs duplas** para análise trimestral.
 
 ---
 
@@ -105,10 +106,9 @@ case_2.consultas_silver   -- VidaMais Clínicas S.A.
 
 🏢 **Contexto:** Rede de clínicas médicas multiespecialidade. O time de gestão precisava entender performance de médicos, receita por convênio e padrões de cancelamento para orientar decisões estratégicas.
 
-- **Desafio Técnico:** Datas em 3 formatos, valores monetários sujos, status de consulta em múltiplas capitalizações (`"realizada"`, `"REALIZADA"`), avaliações fora do range válido (0, 6, -1), nomes de médicos sem prefixo de título e ~18 duplicatas.
+- **Desafio Técnico:** Datas em 3 formatos, valores monetários sujos, status de consulta em múltiplas capitalizações (`"realizada"`, `"REALIZADA"`), avaliações fora do range válido (0, 6, -1), nomes de médicos sem prefixo de título e ~18 duplicatas, além de uso de regex para replaces mais escaláveis.
 - **ETL:** Padronização de categorias, validação de range de avaliações, limpeza de strings → carga na camada silver no schema `case_2`.
 - **SQL:** 5 perguntas respondidas com dificuldade crescente — de `GROUP BY` simples até **CTEs + JOIN entre subqueries** para comparar perfis de pacientes.
-- **Insight de Negócio:** Pacientes que consultaram mais de uma especialidade representam um segmento de alto valor — comparar seu ticket médio com pacientes de especialidade única revela o potencial de **cross-sell entre especialidades**.
 
 ---
 
@@ -119,8 +119,9 @@ case_2.consultas_silver   -- VidaMais Clínicas S.A.
 - **Desafio Técnico:** Dataset com estrutura relacional: `clientes.csv` (40 registros, `cliente_id` como PK) e `pedidos.csv` (100 registros, `cliente_id` como FK). Sujeiras incluíam e-mails com capitalização inconsistente (`MARIA.SOUZA@...`), telefones sem padrão, cidades com case misto (`"são paulo"` vs `"São Paulo"`), 3 registros sem telefone, `cliente_id = 0` e `cliente_id = 99` como **FKs órfãs** (não existem em clientes), status inválido `"-1"` no pedido 1049 e `data_entrega` nula em pedidos em andamento e cancelados.
 - **ETL:** Limpeza e padronização nas duas tabelas → validação de integridade referencial (remoção de FKs órfãs) → carga relacional na camada silver no schema `case_3`.
 - **SQL:** 5 perguntas com dificuldade crescente — do `SELECT` + `WHERE` básico até **CTEs + análise de churn**, passando por `Window Functions` com `RANK` e `PARTITION BY` por vendedor.
-- **Insight de Negócio:** A query de churn identificou clientes com ao menos 2 pedidos em 2023 sem atividade nos últimos 90 dias — entregando uma lista acionável para o time comercial acionar campanhas de retenção, e uma base estruturada para o time de DS iniciar um modelo de score de risco.
+- **Insight de Negócio:** A query para preparação para analise de churn com clientes com ao menos 2 pedidos em 2023 sem atividade nos últimos 90 dias — entregando uma lista acionável para o time comercial acionar campanhas de retenção, e uma base estruturada para o time de DS iniciar um modelo de score de risco.
 
 ---
 
-*Mais cases em breve...*
+Autor: Kauan Amorim
+linkedin: https://www.linkedin.com/in/kauanamorim1/
